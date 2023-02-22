@@ -15,7 +15,19 @@
             "abbreviation": "AFT",
             "tzName": "Afghanistan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Afghanistan",
+         "es": "Afganistán",
+         "fr": "Afghanistan",
+         "ja": "アフガニスタン",
+         "it": "Afghanistan",
+         "br": "Afeganistão",
+         "pt": "Afeganistão",
+         "nl": "Afghanistan",
+         "hr": "Afganistan",
+         "fa": "افغانستان"
+      }
    },
    {
       "name": "Aland Islands",
@@ -51,7 +63,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Albanien",
+         "es": "Albania",
+         "fr": "Albanie",
+         "ja": "アルバニア",
+         "it": "Albania",
+         "br": "Albânia",
+         "pt": "Albânia",
+         "nl": "Albanië",
+         "hr": "Albanija",
+         "fa": "آلبانی"
+      }
    },
    {
       "name": "Algeria",
@@ -69,7 +93,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Algerien",
+         "es": "Argelia",
+         "fr": "Algérie",
+         "ja": "アルジェリア",
+         "it": "Algeria",
+         "br": "Argélia",
+         "pt": "Argélia",
+         "nl": "Algerije",
+         "hr": "Alžir",
+         "fa": "الجزایر"
+      }
    },
    {
       "name": "American Samoa",
@@ -87,7 +123,19 @@
             "abbreviation": "SST",
             "tzName": "Samoa Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Amerikanisch-Samoa",
+         "es": "Samoa Americana",
+         "fr": "Samoa américaines",
+         "ja": "アメリカ領サモア",
+         "it": "Samoa Americane",
+         "br": "Samoa Americana",
+         "pt": "Samoa Americana",
+         "nl": "Amerikaans Samoa",
+         "hr": "Američka Samoa",
+         "fa": "ساموآی آمریکا"
+      }
    },
    {
       "name": "Andorra",
@@ -105,7 +153,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Andorra",
+         "es": "Andorra",
+         "fr": "Andorre",
+         "ja": "アンドラ",
+         "it": "Andorra",
+         "br": "Andorra",
+         "pt": "Andorra",
+         "nl": "Andorra",
+         "hr": "Andora",
+         "fa": "آندورا"
+      }
    },
    {
       "name": "Angola",
@@ -123,7 +183,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Angola",
+         "es": "Angola",
+         "fr": "Angola",
+         "ja": "アンゴラ",
+         "it": "Angola",
+         "br": "Angola",
+         "pt": "Angola",
+         "nl": "Angola",
+         "hr": "Angola",
+         "fa": "آنگولا"
+      }
    },
    {
       "name": "Anguilla",
@@ -141,7 +213,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Anguilla",
+         "es": "Anguilla",
+         "fr": "Anguilla",
+         "ja": "アンギラ",
+         "it": "Anguilla",
+         "br": "Anguila",
+         "pt": "Anguila",
+         "nl": "Anguilla",
+         "hr": "Angvila",
+         "fa": "آنگویلا"
+      }
    },
    {
       "name": "Antarctica",
@@ -222,7 +306,19 @@
             "abbreviation": "VOST",
             "tzName": "Vostok Station Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Antarktika",
+         "es": "Antártida",
+         "fr": "Antarctique",
+         "ja": "南極大陸",
+         "it": "Antartide",
+         "br": "Antártida",
+         "pt": "Antárctida",
+         "nl": "Antarctica",
+         "hr": "Antarktika",
+         "fa": "جنوبگان"
+      }
    },
    {
       "name": "Antigua And Barbuda",
@@ -240,7 +336,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Antigua und Barbuda",
+         "es": "Antigua y Barbuda",
+         "fr": "Antigua-et-Barbuda",
+         "ja": "アンティグア・バーブーダ",
+         "it": "Antigua e Barbuda",
+         "br": "Antígua e Barbuda",
+         "pt": "Antígua e Barbuda",
+         "nl": "Antigua en Barbuda",
+         "hr": "Antigva i Barbuda",
+         "fa": "آنتیگوا و باربودا"
+      }
    },
    {
       "name": "Argentina",
@@ -335,7 +443,19 @@
             "abbreviation": "ART",
             "tzName": "Argentina Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Argentinien",
+         "es": "Argentina",
+         "fr": "Argentine",
+         "ja": "アルゼンチン",
+         "it": "Argentina",
+         "br": "Argentina",
+         "pt": "Argentina",
+         "nl": "Argentinië",
+         "hr": "Argentina",
+         "fa": "آرژانتین"
+      }
    },
    {
       "name": "Armenia",
@@ -353,7 +473,19 @@
             "abbreviation": "AMT",
             "tzName": "Armenia Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Armenien",
+         "es": "Armenia",
+         "fr": "Arménie",
+         "ja": "アルメニア",
+         "it": "Armenia",
+         "br": "Armênia",
+         "pt": "Arménia",
+         "nl": "Armenië",
+         "hr": "Armenija",
+         "fa": "ارمنستان"
+      }
    },
    {
       "name": "Aruba",
@@ -371,7 +503,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Aruba",
+         "es": "Aruba",
+         "fr": "Aruba",
+         "ja": "アルバ",
+         "it": "Aruba",
+         "br": "Aruba",
+         "pt": "Aruba",
+         "nl": "Aruba",
+         "hr": "Aruba",
+         "fa": "آروبا"
+      }
    },
    {
       "name": "Australia",
@@ -473,7 +617,19 @@
             "abbreviation": "AEDT",
             "tzName": "Australian Eastern Daylight Saving Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Australien",
+         "es": "Australia",
+         "fr": "Australie",
+         "ja": "オーストラリア",
+         "it": "Australia",
+         "br": "Austrália",
+         "pt": "Austrália",
+         "nl": "Australië",
+         "hr": "Australija",
+         "fa": "استرالیا"
+      }
    },
    {
       "name": "Austria",
@@ -491,7 +647,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Österreich",
+         "es": "Austria",
+         "fr": "Autriche",
+         "ja": "オーストリア",
+         "it": "Austria",
+         "br": "áustria",
+         "pt": "áustria",
+         "nl": "Oostenrijk",
+         "hr": "Austrija",
+         "fa": "اتریش"
+      }
    },
    {
       "name": "Azerbaijan",
@@ -509,7 +677,19 @@
             "abbreviation": "AZT",
             "tzName": "Azerbaijan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Aserbaidschan",
+         "es": "Azerbaiyán",
+         "fr": "Azerbaïdjan",
+         "ja": "アゼルバイジャン",
+         "it": "Azerbaijan",
+         "br": "Azerbaijão",
+         "pt": "Azerbaijão",
+         "nl": "Azerbeidzjan",
+         "hr": "Azerbajdžan",
+         "fa": "آذربایجان"
+      }
    },
    {
       "name": "The Bahamas",
@@ -527,7 +707,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America)"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bahamas",
+         "es": "Bahamas",
+         "fr": "Bahamas",
+         "ja": "バハマ",
+         "it": "Bahamas",
+         "br": "Bahamas",
+         "pt": "Baamas",
+         "nl": "Bahama’s",
+         "hr": "Bahami",
+         "fa": "باهاما"
+      }
    },
    {
       "name": "Bahrain",
@@ -545,7 +737,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bahrain",
+         "es": "Bahrein",
+         "fr": "Bahreïn",
+         "ja": "バーレーン",
+         "it": "Bahrein",
+         "br": "Bahrein",
+         "pt": "Barém",
+         "nl": "Bahrein",
+         "hr": "Bahrein",
+         "fa": "بحرین"
+      }
    },
    {
       "name": "Bangladesh",
@@ -563,7 +767,19 @@
             "abbreviation": "BDT",
             "tzName": "Bangladesh Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bangladesch",
+         "es": "Bangladesh",
+         "fr": "Bangladesh",
+         "ja": "バングラデシュ",
+         "it": "Bangladesh",
+         "br": "Bangladesh",
+         "pt": "Bangladeche",
+         "nl": "Bangladesh",
+         "hr": "Bangladeš",
+         "fa": "بنگلادش"
+      }
    },
    {
       "name": "Barbados",
@@ -581,7 +797,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Barbados",
+         "es": "Barbados",
+         "fr": "Barbade",
+         "ja": "バルバドス",
+         "it": "Barbados",
+         "br": "Barbados",
+         "pt": "Barbados",
+         "nl": "Barbados",
+         "hr": "Barbados",
+         "fa": "باربادوس"
+      }
    },
    {
       "name": "Belarus",
@@ -599,7 +827,19 @@
             "abbreviation": "MSK",
             "tzName": "Moscow Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Weißrussland",
+         "es": "Bielorrusia",
+         "fr": "Biélorussie",
+         "ja": "ベラルーシ",
+         "it": "Bielorussia",
+         "br": "Bielorrússia",
+         "pt": "Bielorrússia",
+         "nl": "Wit-Rusland",
+         "hr": "Bjelorusija",
+         "fa": "بلاروس"
+      }
    },
    {
       "name": "Belgium",
@@ -617,7 +857,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Belgien",
+         "es": "Bélgica",
+         "fr": "Belgique",
+         "ja": "ベルギー",
+         "it": "Belgio",
+         "br": "Bélgica",
+         "pt": "Bélgica",
+         "nl": "België",
+         "hr": "Belgija",
+         "fa": "بلژیک"
+      }
    },
    {
       "name": "Belize",
@@ -635,7 +887,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America)"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Belize",
+         "es": "Belice",
+         "fr": "Belize",
+         "ja": "ベリーズ",
+         "it": "Belize",
+         "br": "Belize",
+         "pt": "Belize",
+         "nl": "Belize",
+         "hr": "Belize",
+         "fa": "بلیز"
+      }
    },
    {
       "name": "Benin",
@@ -653,7 +917,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Benin",
+         "es": "Benín",
+         "fr": "Bénin",
+         "ja": "ベナン",
+         "it": "Benin",
+         "br": "Benin",
+         "pt": "Benim",
+         "nl": "Benin",
+         "hr": "Benin",
+         "fa": "بنین"
+      }
    },
    {
       "name": "Bermuda",
@@ -671,7 +947,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bermuda",
+         "es": "Bermudas",
+         "fr": "Bermudes",
+         "ja": "バミューダ",
+         "it": "Bermuda",
+         "br": "Bermudas",
+         "pt": "Bermudas",
+         "nl": "Bermuda",
+         "hr": "Bermudi",
+         "fa": "برمودا"
+      }
    },
    {
       "name": "Bhutan",
@@ -689,7 +977,19 @@
             "abbreviation": "BTT",
             "tzName": "Bhutan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bhutan",
+         "es": "Bután",
+         "fr": "Bhoutan",
+         "ja": "ブータン",
+         "it": "Bhutan",
+         "br": "Butão",
+         "pt": "Butão",
+         "nl": "Bhutan",
+         "hr": "Butan",
+         "fa": "بوتان"
+      }
    },
    {
       "name": "Bolivia",
@@ -707,7 +1007,19 @@
             "abbreviation": "BOT",
             "tzName": "Bolivia Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bolivien",
+         "es": "Bolivia",
+         "fr": "Bolivie",
+         "ja": "ボリビア多民族国",
+         "it": "Bolivia",
+         "br": "Bolívia",
+         "pt": "Bolívia",
+         "nl": "Bolivia",
+         "hr": "Bolivija",
+         "fa": "بولیوی"
+      }
    },
    {
       "name": "Bosnia and Herzegovina",
@@ -725,7 +1037,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bosnien und Herzegowina",
+         "es": "Bosnia y Herzegovina",
+         "fr": "Bosnie-Herzégovine",
+         "ja": "ボスニア・ヘルツェゴビナ",
+         "it": "Bosnia ed Erzegovina",
+         "br": "Bósnia e Herzegovina",
+         "pt": "Bósnia e Herzegovina",
+         "nl": "Bosnië en Herzegovina",
+         "hr": "Bosna i Hercegovina",
+         "fa": "بوسنی و هرزگوین"
+      }
    },
    {
       "name": "Botswana",
@@ -743,7 +1067,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Botswana",
+         "es": "Botswana",
+         "fr": "Botswana",
+         "ja": "ボツワナ",
+         "it": "Botswana",
+         "br": "Botsuana",
+         "pt": "Botsuana",
+         "nl": "Botswana",
+         "hr": "Bocvana",
+         "fa": "بوتسوانا"
+      }
    },
    {
       "name": "Bouvet Island",
@@ -761,7 +1097,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bouvetinsel",
+         "es": "Isla Bouvet",
+         "fr": "Île Bouvet",
+         "ja": "ブーベ島",
+         "it": "Isola Bouvet",
+         "br": "Ilha Bouvet",
+         "pt": "Ilha Bouvet",
+         "nl": "Bouveteiland",
+         "hr": "Otok Bouvet",
+         "fa": "جزیره بووه"
+      }
    },
    {
       "name": "Brazil",
@@ -884,7 +1232,19 @@
             "abbreviation": "BRT",
             "tzName": "Brasília Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Brasilien",
+         "es": "Brasil",
+         "fr": "Brésil",
+         "ja": "ブラジル",
+         "it": "Brasile",
+         "br": "Brasil",
+         "pt": "Brasil",
+         "nl": "Brazilië",
+         "hr": "Brazil",
+         "fa": "برزیل"
+      }
    },
    {
       "name": "British Indian Ocean Territory",
@@ -902,7 +1262,19 @@
             "abbreviation": "IOT",
             "tzName": "Indian Ocean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Britisches Territorium im Indischen Ozean",
+         "es": "Territorio Británico del Océano Índico",
+         "fr": "Territoire britannique de l'océan Indien",
+         "ja": "イギリス領インド洋地域",
+         "it": "Territorio britannico dell'oceano indiano",
+         "br": "Território Britânico do Oceano íÍdico",
+         "pt": "Território Britânico do Oceano Índico",
+         "nl": "Britse Gebieden in de Indische Oceaan",
+         "hr": "Britanski Indijskooceanski teritorij",
+         "fa": "قلمرو بریتانیا در اقیانوس هند"
+      }
    },
    {
       "name": "Brunei",
@@ -920,7 +1292,19 @@
             "abbreviation": "BNT",
             "tzName": "Brunei Darussalam Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Brunei",
+         "es": "Brunei",
+         "fr": "Brunei",
+         "ja": "ブルネイ・ダルサラーム",
+         "it": "Brunei",
+         "br": "Brunei",
+         "pt": "Brunei",
+         "nl": "Brunei",
+         "hr": "Brunej",
+         "fa": "برونئی"
+      }
    },
    {
       "name": "Bulgaria",
@@ -938,7 +1322,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Bulgarien",
+         "es": "Bulgaria",
+         "fr": "Bulgarie",
+         "ja": "ブルガリア",
+         "it": "Bulgaria",
+         "br": "Bulgária",
+         "pt": "Bulgária",
+         "nl": "Bulgarije",
+         "hr": "Bugarska",
+         "fa": "بلغارستان"
+      }
    },
    {
       "name": "Burkina Faso",
@@ -956,7 +1352,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Burkina Faso",
+         "es": "Burkina Faso",
+         "fr": "Burkina Faso",
+         "ja": "ブルキナファソ",
+         "it": "Burkina Faso",
+         "br": "Burkina Faso",
+         "pt": "Burquina Faso",
+         "nl": "Burkina Faso",
+         "hr": "Burkina Faso",
+         "fa": "بورکینافاسو"
+      }
    },
    {
       "name": "Burundi",
@@ -974,7 +1382,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Burundi",
+         "es": "Burundi",
+         "fr": "Burundi",
+         "ja": "ブルンジ",
+         "it": "Burundi",
+         "br": "Burundi",
+         "pt": "Burúndi",
+         "nl": "Burundi",
+         "hr": "Burundi",
+         "fa": "بوروندی"
+      }
    },
    {
       "name": "Cambodia",
@@ -992,7 +1412,19 @@
             "abbreviation": "ICT",
             "tzName": "Indochina Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kambodscha",
+         "es": "Camboya",
+         "fr": "Cambodge",
+         "ja": "カンボジア",
+         "it": "Cambogia",
+         "br": "Camboja",
+         "pt": "Camboja",
+         "nl": "Cambodja",
+         "hr": "Kambodža",
+         "fa": "کامبوج"
+      }
    },
    {
       "name": "Cameroon",
@@ -1010,7 +1442,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kamerun",
+         "es": "Camerún",
+         "fr": "Cameroun",
+         "ja": "カメルーン",
+         "it": "Camerun",
+         "br": "Camarões",
+         "pt": "Camarões",
+         "nl": "Kameroen",
+         "hr": "Kamerun",
+         "fa": "کامرون"
+      }
    },
    {
       "name": "Canada",
@@ -1217,7 +1661,19 @@
             "abbreviation": "MST",
             "tzName": "Mountain Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kanada",
+         "es": "Canadá",
+         "fr": "Canada",
+         "ja": "カナダ",
+         "it": "Canada",
+         "br": "Canadá",
+         "pt": "Canadá",
+         "nl": "Canada",
+         "hr": "Kanada",
+         "fa": "کانادا"
+      }
    },
    {
       "name": "Cape Verde",
@@ -1235,7 +1691,19 @@
             "abbreviation": "CVT",
             "tzName": "Cape Verde Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kap Verde",
+         "es": "Cabo Verde",
+         "fr": "Cap Vert",
+         "ja": "カーボベルデ",
+         "it": "Capo Verde",
+         "br": "Cabo Verde",
+         "pt": "Cabo Verde",
+         "nl": "Kaapverdië",
+         "hr": "Zelenortska Republika",
+         "fa": "کیپ ورد"
+      }
    },
    {
       "name": "Cayman Islands",
@@ -1253,7 +1721,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kaimaninseln",
+         "es": "Islas Caimán",
+         "fr": "Îles Caïmans",
+         "ja": "ケイマン諸島",
+         "it": "Isole Cayman",
+         "br": "Ilhas Cayman",
+         "pt": "Ilhas Caimão",
+         "nl": "Caymaneilanden",
+         "hr": "Kajmanski otoci",
+         "fa": "جزایر کیمن"
+      }
    },
    {
       "name": "Central African Republic",
@@ -1271,7 +1751,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Zentralafrikanische Republik",
+         "es": "República Centroafricana",
+         "fr": "République centrafricaine",
+         "ja": "中央アフリカ共和国",
+         "it": "Repubblica Centrafricana",
+         "br": "República Centro-Africana",
+         "pt": "República Centro-Africana",
+         "nl": "Centraal-Afrikaanse Republiek",
+         "hr": "Srednjoafrička Republika",
+         "fa": "جمهوری آفریقای مرکزی"
+      }
    },
    {
       "name": "Chad",
@@ -1289,7 +1781,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tschad",
+         "es": "Chad",
+         "fr": "Tchad",
+         "ja": "チャド",
+         "it": "Ciad",
+         "br": "Chade",
+         "pt": "Chade",
+         "nl": "Tsjaad",
+         "hr": "Čad",
+         "fa": "چاد"
+      }
    },
    {
       "name": "Chile",
@@ -1321,7 +1825,19 @@
             "abbreviation": "EASST",
             "tzName": "Easter Island Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Chile",
+         "es": "Chile",
+         "fr": "Chili",
+         "ja": "チリ",
+         "it": "Cile",
+         "br": "Chile",
+         "pt": "Chile",
+         "nl": "Chili",
+         "hr": "Čile",
+         "fa": "شیلی"
+      }
    },
    {
       "name": "China",
@@ -1346,7 +1862,19 @@
             "abbreviation": "XJT",
             "tzName": "China Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "China",
+         "es": "China",
+         "fr": "Chine",
+         "ja": "中国",
+         "it": "Cina",
+         "br": "China",
+         "pt": "China",
+         "nl": "China",
+         "hr": "Kina",
+         "fa": "چین"
+      }
    },
    {
       "name": "Christmas Island",
@@ -1364,7 +1892,19 @@
             "abbreviation": "CXT",
             "tzName": "Christmas Island Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Weihnachtsinsel",
+         "es": "Isla de Navidad",
+         "fr": "Île Christmas",
+         "ja": "クリスマス島",
+         "it": "Isola di Natale",
+         "br": "Ilha Christmas",
+         "pt": "Ilha do Natal",
+         "nl": "Christmaseiland",
+         "hr": "Božićni otok",
+         "fa": "جزیره کریسمس"
+      }
    },
    {
       "name": "Cocos (Keeling) Islands",
@@ -1382,7 +1922,19 @@
             "abbreviation": "CCT",
             "tzName": "Cocos Islands Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kokosinseln",
+         "es": "Islas Cocos o Islas Keeling",
+         "fr": "Îles Cocos",
+         "ja": "ココス（キーリング）諸島",
+         "it": "Isole Cocos e Keeling",
+         "br": "Ilhas Cocos",
+         "pt": "Ilhas dos Cocos",
+         "nl": "Cocoseilanden",
+         "hr": "Kokosovi Otoci",
+         "fa": "جزایر کوکوس"
+      }
    },
    {
       "name": "Colombia",
@@ -1400,7 +1952,19 @@
             "abbreviation": "COT",
             "tzName": "Colombia Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kolumbien",
+         "es": "Colombia",
+         "fr": "Colombie",
+         "ja": "コロンビア",
+         "it": "Colombia",
+         "br": "Colômbia",
+         "pt": "Colômbia",
+         "nl": "Colombia",
+         "hr": "Kolumbija",
+         "fa": "کلمبیا"
+      }
    },
    {
       "name": "Comoros",
@@ -1418,7 +1982,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Union der Komoren",
+         "es": "Comoras",
+         "fr": "Comores",
+         "ja": "コモロ",
+         "it": "Comore",
+         "br": "Comores",
+         "pt": "Comores",
+         "nl": "Comoren",
+         "hr": "Komori",
+         "fa": "کومور"
+      }
    },
    {
       "name": "Congo",
@@ -1436,7 +2012,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kongo",
+         "es": "Congo",
+         "fr": "Congo",
+         "ja": "コンゴ共和国",
+         "it": "Congo",
+         "br": "Congo",
+         "pt": "Congo",
+         "nl": "Congo [Republiek]",
+         "hr": "Kongo",
+         "fa": "کنگو"
+      }
    },
    {
       "name": "Democratic Republic of the Congo",
@@ -1461,7 +2049,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kongo (Dem. Rep.)",
+         "es": "Congo (Rep. Dem.)",
+         "fr": "Congo (Rép. dém.)",
+         "ja": "コンゴ民主共和国",
+         "it": "Congo (Rep. Dem.)",
+         "br": "RD Congo",
+         "pt": "RD Congo",
+         "nl": "Congo [DRC]",
+         "hr": "Kongo, Demokratska Republika",
+         "fa": "جمهوری کنگو"
+      }
    },
    {
       "name": "Cook Islands",
@@ -1479,7 +2079,19 @@
             "abbreviation": "CKT",
             "tzName": "Cook Island Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Cookinseln",
+         "es": "Islas Cook",
+         "fr": "Îles Cook",
+         "ja": "クック諸島",
+         "it": "Isole Cook",
+         "br": "Ilhas Cook",
+         "pt": "Ilhas Cook",
+         "nl": "Cookeilanden",
+         "hr": "Cookovo Otočje",
+         "fa": "جزایر کوک"
+      }
    },
    {
       "name": "Costa Rica",
@@ -1497,7 +2109,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Costa Rica",
+         "es": "Costa Rica",
+         "fr": "Costa Rica",
+         "ja": "コスタリカ",
+         "it": "Costa Rica",
+         "br": "Costa Rica",
+         "pt": "Costa Rica",
+         "nl": "Costa Rica",
+         "hr": "Kostarika",
+         "fa": "کاستاریکا"
+      }
    },
    {
       "name": "Cote D'Ivoire (Ivory Coast)",
@@ -1515,7 +2139,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Elfenbeinküste",
+         "es": "Costa de Marfil",
+         "fr": "Côte d'Ivoire",
+         "ja": "コートジボワール",
+         "it": "Costa D'Avorio",
+         "br": "Costa do Marfim",
+         "pt": "Costa do Marfim",
+         "nl": "Ivoorkust",
+         "hr": "Obala Bjelokosti",
+         "fa": "ساحل عاج"
+      }
    },
    {
       "name": "Croatia",
@@ -1533,7 +2169,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kroatien",
+         "es": "Croacia",
+         "fr": "Croatie",
+         "ja": "クロアチア",
+         "it": "Croazia",
+         "br": "Croácia",
+         "pt": "Croácia",
+         "nl": "Kroatië",
+         "hr": "Hrvatska",
+         "fa": "کرواسی"
+      }
    },
    {
       "name": "Cuba",
@@ -1551,7 +2199,19 @@
             "abbreviation": "CST",
             "tzName": "Cuba Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kuba",
+         "es": "Cuba",
+         "fr": "Cuba",
+         "ja": "キューバ",
+         "it": "Cuba",
+         "br": "Cuba",
+         "pt": "Cuba",
+         "nl": "Cuba",
+         "hr": "Kuba",
+         "fa": "کوبا"
+      }
    },
    {
       "name": "Cyprus",
@@ -1576,7 +2236,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Zypern",
+         "es": "Chipre",
+         "fr": "Chypre",
+         "ja": "キプロス",
+         "it": "Cipro",
+         "br": "Chipre",
+         "pt": "Chipre",
+         "nl": "Cyprus",
+         "hr": "Cipar",
+         "fa": "قبرس"
+      }
    },
    {
       "name": "Czech Republic",
@@ -1594,7 +2266,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tschechische Republik",
+         "es": "República Checa",
+         "fr": "République tchèque",
+         "ja": "チェコ",
+         "it": "Repubblica Ceca",
+         "br": "República Tcheca",
+         "pt": "República Checa",
+         "nl": "Tsjechië",
+         "hr": "Češka",
+         "fa": "جمهوری چک"
+      }
    },
    {
       "name": "Denmark",
@@ -1612,7 +2296,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Dänemark",
+         "es": "Dinamarca",
+         "fr": "Danemark",
+         "ja": "デンマーク",
+         "it": "Danimarca",
+         "br": "Dinamarca",
+         "pt": "Dinamarca",
+         "nl": "Denemarken",
+         "hr": "Danska",
+         "fa": "دانمارک"
+      }
    },
    {
       "name": "Djibouti",
@@ -1630,7 +2326,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Dschibuti",
+         "es": "Yibuti",
+         "fr": "Djibouti",
+         "ja": "ジブチ",
+         "it": "Gibuti",
+         "br": "Djibuti",
+         "pt": "Djibuti",
+         "nl": "Djibouti",
+         "hr": "Džibuti",
+         "fa": "جیبوتی"
+      }
    },
    {
       "name": "Dominica",
@@ -1648,7 +2356,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Dominica",
+         "es": "Dominica",
+         "fr": "Dominique",
+         "ja": "ドミニカ国",
+         "it": "Dominica",
+         "br": "Dominica",
+         "pt": "Dominica",
+         "nl": "Dominica",
+         "hr": "Dominika",
+         "fa": "دومینیکا"
+      }
    },
    {
       "name": "Dominican Republic",
@@ -1666,7 +2386,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Dominikanische Republik",
+         "es": "República Dominicana",
+         "fr": "République dominicaine",
+         "ja": "ドミニカ共和国",
+         "it": "Repubblica Dominicana",
+         "br": "República Dominicana",
+         "pt": "República Dominicana",
+         "nl": "Dominicaanse Republiek",
+         "hr": "Dominikanska Republika",
+         "fa": "جمهوری دومینیکن"
+      }
    },
    {
       "name": "East Timor",
@@ -1709,7 +2441,19 @@
             "abbreviation": "GALT",
             "tzName": "Galápagos Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ecuador",
+         "es": "Ecuador",
+         "fr": "Équateur",
+         "ja": "エクアドル",
+         "it": "Ecuador",
+         "br": "Equador",
+         "pt": "Equador",
+         "nl": "Ecuador",
+         "hr": "Ekvador",
+         "fa": "اکوادور"
+      }
    },
    {
       "name": "Egypt",
@@ -1727,7 +2471,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ägypten",
+         "es": "Egipto",
+         "fr": "Égypte",
+         "ja": "エジプト",
+         "it": "Egitto",
+         "br": "Egito",
+         "pt": "Egipto",
+         "nl": "Egypte",
+         "hr": "Egipat",
+         "fa": "مصر"
+      }
    },
    {
       "name": "El Salvador",
@@ -1745,7 +2501,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "El Salvador",
+         "es": "El Salvador",
+         "fr": "Salvador",
+         "ja": "エルサルバドル",
+         "it": "El Salvador",
+         "br": "El Salvador",
+         "pt": "El Salvador",
+         "nl": "El Salvador",
+         "hr": "Salvador",
+         "fa": "السالوادور"
+      }
    },
    {
       "name": "Equatorial Guinea",
@@ -1763,7 +2531,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Äquatorial-Guinea",
+         "es": "Guinea Ecuatorial",
+         "fr": "Guinée-Équatoriale",
+         "ja": "赤道ギニア",
+         "it": "Guinea Equatoriale",
+         "br": "Guiné Equatorial",
+         "pt": "Guiné Equatorial",
+         "nl": "Equatoriaal-Guinea",
+         "hr": "Ekvatorijalna Gvineja",
+         "fa": "گینه استوایی"
+      }
    },
    {
       "name": "Eritrea",
@@ -1781,7 +2561,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Eritrea",
+         "es": "Eritrea",
+         "fr": "Érythrée",
+         "ja": "エリトリア",
+         "it": "Eritrea",
+         "br": "Eritreia",
+         "pt": "Eritreia",
+         "nl": "Eritrea",
+         "hr": "Eritreja",
+         "fa": "اریتره"
+      }
    },
    {
       "name": "Estonia",
@@ -1799,7 +2591,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Estland",
+         "es": "Estonia",
+         "fr": "Estonie",
+         "ja": "エストニア",
+         "it": "Estonia",
+         "br": "Estônia",
+         "pt": "Estónia",
+         "nl": "Estland",
+         "hr": "Estonija",
+         "fa": "استونی"
+      }
    },
    {
       "name": "Ethiopia",
@@ -1817,7 +2621,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Äthiopien",
+         "es": "Etiopía",
+         "fr": "Éthiopie",
+         "ja": "エチオピア",
+         "it": "Etiopia",
+         "br": "Etiópia",
+         "pt": "Etiópia",
+         "nl": "Ethiopië",
+         "hr": "Etiopija",
+         "fa": "اتیوپی"
+      }
    },
    {
       "name": "Falkland Islands",
@@ -1835,7 +2651,19 @@
             "abbreviation": "FKST",
             "tzName": "Falkland Islands Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Falklandinseln",
+         "es": "Islas Malvinas",
+         "fr": "Îles Malouines",
+         "ja": "フォークランド（マルビナス）諸島",
+         "it": "Isole Falkland o Isole Malvine",
+         "br": "Ilhas Malvinas",
+         "pt": "Ilhas Falkland",
+         "nl": "Falklandeilanden [Islas Malvinas]",
+         "hr": "Falklandski Otoci",
+         "fa": "جزایر فالکلند"
+      }
    },
    {
       "name": "Faroe Islands",
@@ -1853,7 +2681,19 @@
             "abbreviation": "WET",
             "tzName": "Western European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Färöer-Inseln",
+         "es": "Islas Faroe",
+         "fr": "Îles Féroé",
+         "ja": "フェロー諸島",
+         "it": "Isole Far Oer",
+         "br": "Ilhas Faroé",
+         "pt": "Ilhas Faroé",
+         "nl": "Faeröer",
+         "hr": "Farski Otoci",
+         "fa": "جزایر فارو"
+      }
    },
    {
       "name": "Fiji Islands",
@@ -1871,7 +2711,19 @@
             "abbreviation": "FJT",
             "tzName": "Fiji Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Fidschi",
+         "es": "Fiyi",
+         "fr": "Fidji",
+         "ja": "フィジー",
+         "it": "Figi",
+         "br": "Fiji",
+         "pt": "Fiji",
+         "nl": "Fiji",
+         "hr": "Fiđi",
+         "fa": "فیجی"
+      }
    },
    {
       "name": "Finland",
@@ -1889,7 +2741,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Finnland",
+         "es": "Finlandia",
+         "fr": "Finlande",
+         "ja": "フィンランド",
+         "it": "Finlandia",
+         "br": "Finlândia",
+         "pt": "Finlândia",
+         "nl": "Finland",
+         "hr": "Finska",
+         "fa": "فنلاند"
+      }
    },
    {
       "name": "France",
@@ -1907,7 +2771,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Frankreich",
+         "es": "Francia",
+         "fr": "France",
+         "ja": "フランス",
+         "it": "Francia",
+         "br": "França",
+         "pt": "França",
+         "nl": "Frankrijk",
+         "hr": "Francuska",
+         "fa": "فرانسه"
+      }
    },
    {
       "name": "French Guiana",
@@ -1925,7 +2801,19 @@
             "abbreviation": "GFT",
             "tzName": "French Guiana Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Französisch Guyana",
+         "es": "Guayana Francesa",
+         "fr": "Guayane",
+         "ja": "フランス領ギアナ",
+         "it": "Guyana francese",
+         "br": "Guiana Francesa",
+         "pt": "Guiana Francesa",
+         "nl": "Frans-Guyana",
+         "hr": "Francuska Gvajana",
+         "fa": "گویان فرانسه"
+      }
    },
    {
       "name": "French Polynesia",
@@ -1957,7 +2845,19 @@
             "abbreviation": "TAHT",
             "tzName": "Tahiti Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Französisch-Polynesien",
+         "es": "Polinesia Francesa",
+         "fr": "Polynésie française",
+         "ja": "フランス領ポリネシア",
+         "it": "Polinesia Francese",
+         "br": "Polinésia Francesa",
+         "pt": "Polinésia Francesa",
+         "nl": "Frans-Polynesië",
+         "hr": "Francuska Polinezija",
+         "fa": "پلی‌نزی فرانسه"
+      }
    },
    {
       "name": "French Southern Territories",
@@ -1975,7 +2875,19 @@
             "abbreviation": "TFT",
             "tzName": "French Southern and Antarctic Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Französische Süd- und Antarktisgebiete",
+         "es": "Tierras Australes y Antárticas Francesas",
+         "fr": "Terres australes et antarctiques françaises",
+         "ja": "フランス領南方・南極地域",
+         "it": "Territori Francesi del Sud",
+         "br": "Terras Austrais e Antárticas Francesas",
+         "pt": "Terras Austrais e Antárticas Francesas",
+         "nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+         "hr": "Francuski južni i antarktički teritoriji",
+         "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
+      }
    },
    {
       "name": "Gabon",
@@ -1993,7 +2905,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Gabun",
+         "es": "Gabón",
+         "fr": "Gabon",
+         "ja": "ガボン",
+         "it": "Gabon",
+         "br": "Gabão",
+         "pt": "Gabão",
+         "nl": "Gabon",
+         "hr": "Gabon",
+         "fa": "گابن"
+      }
    },
    {
       "name": "Gambia The",
@@ -2011,7 +2935,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Gambia",
+         "es": "Gambia",
+         "fr": "Gambie",
+         "ja": "ガンビア",
+         "it": "Gambia",
+         "br": "Gâmbia",
+         "pt": "Gâmbia",
+         "nl": "Gambia",
+         "hr": "Gambija",
+         "fa": "گامبیا"
+      }
    },
    {
       "name": "Georgia",
@@ -2029,7 +2965,19 @@
             "abbreviation": "GET",
             "tzName": "Georgia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Georgien",
+         "es": "Georgia",
+         "fr": "Géorgie",
+         "ja": "グルジア",
+         "it": "Georgia",
+         "br": "Geórgia",
+         "pt": "Geórgia",
+         "nl": "Georgië",
+         "hr": "Gruzija",
+         "fa": "گرجستان"
+      }
    },
    {
       "name": "Germany",
@@ -2054,7 +3002,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Deutschland",
+         "es": "Alemania",
+         "fr": "Allemagne",
+         "ja": "ドイツ",
+         "it": "Germania",
+         "br": "Alemanha",
+         "pt": "Alemanha",
+         "nl": "Duitsland",
+         "hr": "Njemačka",
+         "fa": "آلمان"
+      }
    },
    {
       "name": "Ghana",
@@ -2072,7 +3032,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ghana",
+         "es": "Ghana",
+         "fr": "Ghana",
+         "ja": "ガーナ",
+         "it": "Ghana",
+         "br": "Gana",
+         "pt": "Gana",
+         "nl": "Ghana",
+         "hr": "Gana",
+         "fa": "غنا"
+      }
    },
    {
       "name": "Gibraltar",
@@ -2090,7 +3062,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Gibraltar",
+         "es": "Gibraltar",
+         "fr": "Gibraltar",
+         "ja": "ジブラルタル",
+         "it": "Gibilterra",
+         "br": "Gibraltar",
+         "pt": "Gibraltar",
+         "nl": "Gibraltar",
+         "hr": "Gibraltar",
+         "fa": "جبل‌طارق"
+      }
    },
    {
       "name": "Greece",
@@ -2108,7 +3092,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Griechenland",
+         "es": "Grecia",
+         "fr": "Grèce",
+         "ja": "ギリシャ",
+         "it": "Grecia",
+         "br": "Grécia",
+         "pt": "Grécia",
+         "nl": "Griekenland",
+         "hr": "Grčka",
+         "fa": "یونان"
+      }
    },
    {
       "name": "Greenland",
@@ -2147,7 +3143,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Grönland",
+         "es": "Groenlandia",
+         "fr": "Groenland",
+         "ja": "グリーンランド",
+         "it": "Groenlandia",
+         "br": "Groelândia",
+         "pt": "Gronelândia",
+         "nl": "Groenland",
+         "hr": "Grenland",
+         "fa": "گرینلند"
+      }
    },
    {
       "name": "Grenada",
@@ -2165,7 +3173,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Grenada",
+         "es": "Grenada",
+         "fr": "Grenade",
+         "ja": "グレナダ",
+         "it": "Grenada",
+         "br": "Granada",
+         "pt": "Granada",
+         "nl": "Grenada",
+         "hr": "Grenada",
+         "fa": "گرنادا"
+      }
    },
    {
       "name": "Guadeloupe",
@@ -2183,7 +3203,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guadeloupe",
+         "es": "Guadalupe",
+         "fr": "Guadeloupe",
+         "ja": "グアドループ",
+         "it": "Guadeloupa",
+         "br": "Guadalupe",
+         "pt": "Guadalupe",
+         "nl": "Guadeloupe",
+         "hr": "Gvadalupa",
+         "fa": "جزیره گوادلوپ"
+      }
    },
    {
       "name": "Guam",
@@ -2201,7 +3233,19 @@
             "abbreviation": "CHST",
             "tzName": "Chamorro Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guam",
+         "es": "Guam",
+         "fr": "Guam",
+         "ja": "グアム",
+         "it": "Guam",
+         "br": "Guam",
+         "pt": "Guame",
+         "nl": "Guam",
+         "hr": "Guam",
+         "fa": "گوام"
+      }
    },
    {
       "name": "Guatemala",
@@ -2219,7 +3263,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guatemala",
+         "es": "Guatemala",
+         "fr": "Guatemala",
+         "ja": "グアテマラ",
+         "it": "Guatemala",
+         "br": "Guatemala",
+         "pt": "Guatemala",
+         "nl": "Guatemala",
+         "hr": "Gvatemala",
+         "fa": "گواتمالا"
+      }
    },
    {
       "name": "Guernsey and Alderney",
@@ -2255,7 +3311,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guinea",
+         "es": "Guinea",
+         "fr": "Guinée",
+         "ja": "ギニア",
+         "it": "Guinea",
+         "br": "Guiné",
+         "pt": "Guiné",
+         "nl": "Guinee",
+         "hr": "Gvineja",
+         "fa": "گینه"
+      }
    },
    {
       "name": "Guinea-Bissau",
@@ -2273,7 +3341,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guinea-Bissau",
+         "es": "Guinea-Bisáu",
+         "fr": "Guinée-Bissau",
+         "ja": "ギニアビサウ",
+         "it": "Guinea-Bissau",
+         "br": "Guiné-Bissau",
+         "pt": "Guiné-Bissau",
+         "nl": "Guinee-Bissau",
+         "hr": "Gvineja Bisau",
+         "fa": "گینه بیسائو"
+      }
    },
    {
       "name": "Guyana",
@@ -2291,7 +3371,19 @@
             "abbreviation": "GYT",
             "tzName": "Guyana Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Guyana",
+         "es": "Guyana",
+         "fr": "Guyane",
+         "ja": "ガイアナ",
+         "it": "Guyana",
+         "br": "Guiana",
+         "pt": "Guiana",
+         "nl": "Guyana",
+         "hr": "Gvajana",
+         "fa": "گویان"
+      }
    },
    {
       "name": "Haiti",
@@ -2309,7 +3401,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Haiti",
+         "es": "Haiti",
+         "fr": "Haïti",
+         "ja": "ハイチ",
+         "it": "Haiti",
+         "br": "Haiti",
+         "pt": "Haiti",
+         "nl": "Haïti",
+         "hr": "Haiti",
+         "fa": "هائیتی"
+      }
    },
    {
       "name": "Heard Island and McDonald Islands",
@@ -2327,7 +3431,19 @@
             "abbreviation": "TFT",
             "tzName": "French Southern and Antarctic Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Heard und die McDonaldinseln",
+         "es": "Islas Heard y McDonald",
+         "fr": "Îles Heard-et-MacDonald",
+         "ja": "ハード島とマクドナルド諸島",
+         "it": "Isole Heard e McDonald",
+         "br": "Ilha Heard e Ilhas McDonald",
+         "pt": "Ilha Heard e Ilhas McDonald",
+         "nl": "Heard- en McDonaldeilanden",
+         "hr": "Otok Heard i otočje McDonald",
+         "fa": "جزیره هرد و جزایر مک‌دونالد"
+      }
    },
    {
       "name": "Honduras",
@@ -2345,7 +3461,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Honduras",
+         "es": "Honduras",
+         "fr": "Honduras",
+         "ja": "ホンジュラス",
+         "it": "Honduras",
+         "br": "Honduras",
+         "pt": "Honduras",
+         "nl": "Honduras",
+         "hr": "Honduras",
+         "fa": "هندوراس"
+      }
    },
    {
       "name": "Hong Kong S.A.R.",
@@ -2363,7 +3491,19 @@
             "abbreviation": "HKT",
             "tzName": "Hong Kong Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Hong Kong",
+         "es": "Hong Kong",
+         "fr": "Hong Kong",
+         "ja": "香港",
+         "it": "Hong Kong",
+         "br": "Hong Kong",
+         "pt": "Hong Kong",
+         "nl": "Hongkong",
+         "hr": "Hong Kong",
+         "fa": "هنگ‌کنگ"
+      }
    },
    {
       "name": "Hungary",
@@ -2381,7 +3521,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ungarn",
+         "es": "Hungría",
+         "fr": "Hongrie",
+         "ja": "ハンガリー",
+         "it": "Ungheria",
+         "br": "Hungria",
+         "pt": "Hungria",
+         "nl": "Hongarije",
+         "hr": "Mađarska",
+         "fa": "مجارستان"
+      }
    },
    {
       "name": "Iceland",
@@ -2399,7 +3551,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Island",
+         "es": "Islandia",
+         "fr": "Islande",
+         "ja": "アイスランド",
+         "it": "Islanda",
+         "br": "Islândia",
+         "pt": "Islândia",
+         "nl": "IJsland",
+         "hr": "Island",
+         "fa": "ایسلند"
+      }
    },
    {
       "name": "India",
@@ -2417,7 +3581,19 @@
             "abbreviation": "IST",
             "tzName": "Indian Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Indien",
+         "es": "India",
+         "fr": "Inde",
+         "ja": "インド",
+         "it": "India",
+         "br": "Índia",
+         "pt": "Índia",
+         "nl": "India",
+         "hr": "Indija",
+         "fa": "هند"
+      }
    },
    {
       "name": "Indonesia",
@@ -2456,7 +3632,19 @@
             "abbreviation": "WIB",
             "tzName": "Western Indonesian Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Indonesien",
+         "es": "Indonesia",
+         "fr": "Indonésie",
+         "ja": "インドネシア",
+         "it": "Indonesia",
+         "br": "Indonésia",
+         "pt": "Indonésia",
+         "nl": "Indonesië",
+         "hr": "Indonezija",
+         "fa": "اندونزی"
+      }
    },
    {
       "name": "Iran",
@@ -2474,7 +3662,19 @@
             "abbreviation": "IRDT",
             "tzName": "Iran Daylight Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Iran",
+         "es": "Iran",
+         "fr": "Iran",
+         "ja": "イラン・イスラム共和国",
+         "it": null,
+         "br": "Irã",
+         "pt": "Irão",
+         "nl": "Iran",
+         "hr": "Iran",
+         "fa": "ایران"
+      }
    },
    {
       "name": "Iraq",
@@ -2492,7 +3692,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Irak",
+         "es": "Irak",
+         "fr": "Irak",
+         "ja": "イラク",
+         "it": "Iraq",
+         "br": "Iraque",
+         "pt": "Iraque",
+         "nl": "Irak",
+         "hr": "Irak",
+         "fa": "عراق"
+      }
    },
    {
       "name": "Ireland",
@@ -2510,7 +3722,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Irland",
+         "es": "Irlanda",
+         "fr": "Irlande",
+         "ja": "アイルランド",
+         "it": "Irlanda",
+         "br": "Irlanda",
+         "pt": "Irlanda",
+         "nl": "Ierland",
+         "hr": "Irska",
+         "fa": "ایرلند"
+      }
    },
    {
       "name": "Israel",
@@ -2528,7 +3752,19 @@
             "abbreviation": "IST",
             "tzName": "Israel Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Israel",
+         "es": "Israel",
+         "fr": "Israël",
+         "ja": "イスラエル",
+         "it": "Israele",
+         "br": "Israel",
+         "pt": "Israel",
+         "nl": "Israël",
+         "hr": "Izrael",
+         "fa": "اسرائیل"
+      }
    },
    {
       "name": "Italy",
@@ -2546,7 +3782,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Italien",
+         "es": "Italia",
+         "fr": "Italie",
+         "ja": "イタリア",
+         "it": "Italia",
+         "br": "Itália",
+         "pt": "Itália",
+         "nl": "Italië",
+         "hr": "Italija",
+         "fa": "ایتالیا"
+      }
    },
    {
       "name": "Jamaica",
@@ -2564,7 +3812,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Jamaika",
+         "es": "Jamaica",
+         "fr": "Jamaïque",
+         "ja": "ジャマイカ",
+         "it": "Giamaica",
+         "br": "Jamaica",
+         "pt": "Jamaica",
+         "nl": "Jamaica",
+         "hr": "Jamajka",
+         "fa": "جامائیکا"
+      }
    },
    {
       "name": "Japan",
@@ -2582,7 +3842,19 @@
             "abbreviation": "JST",
             "tzName": "Japan Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Japan",
+         "es": "Japón",
+         "fr": "Japon",
+         "ja": "日本",
+         "it": "Giappone",
+         "br": "Japão",
+         "pt": "Japão",
+         "nl": "Japan",
+         "hr": "Japan",
+         "fa": "ژاپن"
+      }
    },
    {
       "name": "Jersey",
@@ -2618,7 +3890,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Jordanien",
+         "es": "Jordania",
+         "fr": "Jordanie",
+         "ja": "ヨルダン",
+         "it": "Giordania",
+         "br": "Jordânia",
+         "pt": "Jordânia",
+         "nl": "Jordanië",
+         "hr": "Jordan",
+         "fa": "اردن"
+      }
    },
    {
       "name": "Kazakhstan",
@@ -2678,7 +3962,19 @@
             "abbreviation": "QYZT",
             "tzName": "Qyzylorda Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kasachstan",
+         "es": "Kazajistán",
+         "fr": "Kazakhstan",
+         "ja": "カザフスタン",
+         "it": "Kazakistan",
+         "br": "Cazaquistão",
+         "pt": "Cazaquistão",
+         "nl": "Kazachstan",
+         "hr": "Kazahstan",
+         "fa": "قزاقستان"
+      }
    },
    {
       "name": "Kenya",
@@ -2696,7 +3992,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kenia",
+         "es": "Kenia",
+         "fr": "Kenya",
+         "ja": "ケニア",
+         "it": "Kenya",
+         "br": "Quênia",
+         "pt": "Quénia",
+         "nl": "Kenia",
+         "hr": "Kenija",
+         "fa": "کنیا"
+      }
    },
    {
       "name": "Kiribati",
@@ -2728,7 +4036,19 @@
             "abbreviation": "GILT",
             "tzName": "Gilbert Island Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kiribati",
+         "es": "Kiribati",
+         "fr": "Kiribati",
+         "ja": "キリバス",
+         "it": "Kiribati",
+         "br": "Kiribati",
+         "pt": "Quiribáti",
+         "nl": "Kiribati",
+         "hr": "Kiribati",
+         "fa": "کیریباتی"
+      }
    },
    {
       "name": "North Korea",
@@ -2746,7 +4066,19 @@
             "abbreviation": "KST",
             "tzName": "Korea Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Nordkorea",
+         "es": "Corea del Norte",
+         "fr": "Corée du Nord",
+         "ja": "朝鮮民主主義人民共和国",
+         "it": "Corea del Nord",
+         "br": "Coreia do Norte",
+         "pt": "Coreia do Norte",
+         "nl": "Noord-Korea",
+         "hr": "Sjeverna Koreja",
+         "fa": "کره جنوبی"
+      }
    },
    {
       "name": "South Korea",
@@ -2764,7 +4096,19 @@
             "abbreviation": "KST",
             "tzName": "Korea Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Südkorea",
+         "es": "Corea del Sur",
+         "fr": "Corée du Sud",
+         "ja": "大韓民国",
+         "it": "Corea del Sud",
+         "br": "Coreia do Sul",
+         "pt": "Coreia do Sul",
+         "nl": "Zuid-Korea",
+         "hr": "Južna Koreja",
+         "fa": "کره شمالی"
+      }
    },
    {
       "name": "Kuwait",
@@ -2782,7 +4126,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kuwait",
+         "es": "Kuwait",
+         "fr": "Koweït",
+         "ja": "クウェート",
+         "it": "Kuwait",
+         "br": "Kuwait",
+         "pt": "Kuwait",
+         "nl": "Koeweit",
+         "hr": "Kuvajt",
+         "fa": "کویت"
+      }
    },
    {
       "name": "Kyrgyzstan",
@@ -2800,7 +4156,19 @@
             "abbreviation": "KGT",
             "tzName": "Kyrgyzstan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kirgisistan",
+         "es": "Kirguizistán",
+         "fr": "Kirghizistan",
+         "ja": "キルギス",
+         "it": "Kirghizistan",
+         "br": "Quirguistão",
+         "pt": "Quirguizistão",
+         "nl": "Kirgizië",
+         "hr": "Kirgistan",
+         "fa": "قرقیزستان"
+      }
    },
    {
       "name": "Laos",
@@ -2818,7 +4186,19 @@
             "abbreviation": "ICT",
             "tzName": "Indochina Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Laos",
+         "es": "Laos",
+         "fr": "Laos",
+         "ja": "ラオス人民民主共和国",
+         "it": "Laos",
+         "br": "Laos",
+         "pt": "Laos",
+         "nl": "Laos",
+         "hr": "Laos",
+         "fa": "لائوس"
+      }
    },
    {
       "name": "Latvia",
@@ -2836,7 +4216,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Lettland",
+         "es": "Letonia",
+         "fr": "Lettonie",
+         "ja": "ラトビア",
+         "it": "Lettonia",
+         "br": "Letônia",
+         "pt": "Letónia",
+         "nl": "Letland",
+         "hr": "Latvija",
+         "fa": "لتونی"
+      }
    },
    {
       "name": "Lebanon",
@@ -2854,7 +4246,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Libanon",
+         "es": "Líbano",
+         "fr": "Liban",
+         "ja": "レバノン",
+         "it": "Libano",
+         "br": "Líbano",
+         "pt": "Líbano",
+         "nl": "Libanon",
+         "hr": "Libanon",
+         "fa": "لبنان"
+      }
    },
    {
       "name": "Lesotho",
@@ -2872,7 +4276,19 @@
             "abbreviation": "SAST",
             "tzName": "South African Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Lesotho",
+         "es": "Lesotho",
+         "fr": "Lesotho",
+         "ja": "レソト",
+         "it": "Lesotho",
+         "br": "Lesoto",
+         "pt": "Lesoto",
+         "nl": "Lesotho",
+         "hr": "Lesoto",
+         "fa": "لسوتو"
+      }
    },
    {
       "name": "Liberia",
@@ -2890,7 +4306,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Liberia",
+         "es": "Liberia",
+         "fr": "Liberia",
+         "ja": "リベリア",
+         "it": "Liberia",
+         "br": "Libéria",
+         "pt": "Libéria",
+         "nl": "Liberia",
+         "hr": "Liberija",
+         "fa": "لیبریا"
+      }
    },
    {
       "name": "Libya",
@@ -2908,7 +4336,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Libyen",
+         "es": "Libia",
+         "fr": "Libye",
+         "ja": "リビア",
+         "it": "Libia",
+         "br": "Líbia",
+         "pt": "Líbia",
+         "nl": "Libië",
+         "hr": "Libija",
+         "fa": "لیبی"
+      }
    },
    {
       "name": "Liechtenstein",
@@ -2926,7 +4366,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Liechtenstein",
+         "es": "Liechtenstein",
+         "fr": "Liechtenstein",
+         "ja": "リヒテンシュタイン",
+         "it": "Liechtenstein",
+         "br": "Liechtenstein",
+         "pt": "Listenstaine",
+         "nl": "Liechtenstein",
+         "hr": "Lihtenštajn",
+         "fa": "لیختن‌اشتاین"
+      }
    },
    {
       "name": "Lithuania",
@@ -2944,7 +4396,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Litauen",
+         "es": "Lituania",
+         "fr": "Lituanie",
+         "ja": "リトアニア",
+         "it": "Lituania",
+         "br": "Lituânia",
+         "pt": "Lituânia",
+         "nl": "Litouwen",
+         "hr": "Litva",
+         "fa": "لیتوانی"
+      }
    },
    {
       "name": "Luxembourg",
@@ -2962,7 +4426,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Luxemburg",
+         "es": "Luxemburgo",
+         "fr": "Luxembourg",
+         "ja": "ルクセンブルク",
+         "it": "Lussemburgo",
+         "br": "Luxemburgo",
+         "pt": "Luxemburgo",
+         "nl": "Luxemburg",
+         "hr": "Luksemburg",
+         "fa": "لوکزامبورگ"
+      }
    },
    {
       "name": "Macau S.A.R.",
@@ -2980,7 +4456,19 @@
             "abbreviation": "CST",
             "tzName": "China Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Macao",
+         "es": "Macao",
+         "fr": "Macao",
+         "ja": "マカオ",
+         "it": "Macao",
+         "br": "Macau",
+         "pt": "Macau",
+         "nl": "Macao",
+         "hr": "Makao",
+         "fa": "مکائو"
+      }
    },
    {
       "name": "Macedonia",
@@ -2998,7 +4486,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mazedonien",
+         "es": "Macedonia",
+         "fr": "Macédoine",
+         "ja": "マケドニア旧ユーゴスラビア共和国",
+         "it": "Macedonia",
+         "br": "Macedônia",
+         "pt": "Macedónia",
+         "nl": "Macedonië",
+         "hr": "Makedonija",
+         "fa": ""
+      }
    },
    {
       "name": "Madagascar",
@@ -3016,7 +4516,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Madagaskar",
+         "es": "Madagascar",
+         "fr": "Madagascar",
+         "ja": "マダガスカル",
+         "it": "Madagascar",
+         "br": "Madagascar",
+         "pt": "Madagáscar",
+         "nl": "Madagaskar",
+         "hr": "Madagaskar",
+         "fa": "ماداگاسکار"
+      }
    },
    {
       "name": "Malawi",
@@ -3034,7 +4546,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Malawi",
+         "es": "Malawi",
+         "fr": "Malawi",
+         "ja": "マラウイ",
+         "it": "Malawi",
+         "br": "Malawi",
+         "pt": "Malávi",
+         "nl": "Malawi",
+         "hr": "Malavi",
+         "fa": "مالاوی"
+      }
    },
    {
       "name": "Malaysia",
@@ -3059,7 +4583,19 @@
             "abbreviation": "MYT",
             "tzName": "Malaysia Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Malaysia",
+         "es": "Malasia",
+         "fr": "Malaisie",
+         "ja": "マレーシア",
+         "it": "Malesia",
+         "br": "Malásia",
+         "pt": "Malásia",
+         "nl": "Maleisië",
+         "hr": "Malezija",
+         "fa": "مالزی"
+      }
    },
    {
       "name": "Maldives",
@@ -3077,7 +4613,19 @@
             "abbreviation": "MVT",
             "tzName": "Maldives Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Malediven",
+         "es": "Maldivas",
+         "fr": "Maldives",
+         "ja": "モルディブ",
+         "it": "Maldive",
+         "br": "Maldivas",
+         "pt": "Maldivas",
+         "nl": "Maldiven",
+         "hr": "Maldivi",
+         "fa": "مالدیو"
+      }
    },
    {
       "name": "Mali",
@@ -3095,7 +4643,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mali",
+         "es": "Mali",
+         "fr": "Mali",
+         "ja": "マリ",
+         "it": "Mali",
+         "br": "Mali",
+         "pt": "Mali",
+         "nl": "Mali",
+         "hr": "Mali",
+         "fa": "مالی"
+      }
    },
    {
       "name": "Malta",
@@ -3113,7 +4673,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Malta",
+         "es": "Malta",
+         "fr": "Malte",
+         "ja": "マルタ",
+         "it": "Malta",
+         "br": "Malta",
+         "pt": "Malta",
+         "nl": "Malta",
+         "hr": "Malta",
+         "fa": "مالت"
+      }
    },
    {
       "name": "Man (Isle of)",
@@ -3156,7 +4728,19 @@
             "abbreviation": "MHT",
             "tzName": "Marshall Islands Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Marshallinseln",
+         "es": "Islas Marshall",
+         "fr": "Îles Marshall",
+         "ja": "マーシャル諸島",
+         "it": "Isole Marshall",
+         "br": "Ilhas Marshall",
+         "pt": "Ilhas Marshall",
+         "nl": "Marshalleilanden",
+         "hr": "Maršalovi Otoci",
+         "fa": "جزایر مارشال"
+      }
    },
    {
       "name": "Martinique",
@@ -3174,7 +4758,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Martinique",
+         "es": "Martinica",
+         "fr": "Martinique",
+         "ja": "マルティニーク",
+         "it": "Martinica",
+         "br": "Martinica",
+         "pt": "Martinica",
+         "nl": "Martinique",
+         "hr": "Martinique",
+         "fa": "مونتسرات"
+      }
    },
    {
       "name": "Mauritania",
@@ -3192,7 +4788,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mauretanien",
+         "es": "Mauritania",
+         "fr": "Mauritanie",
+         "ja": "モーリタニア",
+         "it": "Mauritania",
+         "br": "Mauritânia",
+         "pt": "Mauritânia",
+         "nl": "Mauritanië",
+         "hr": "Mauritanija",
+         "fa": "موریتانی"
+      }
    },
    {
       "name": "Mauritius",
@@ -3210,7 +4818,19 @@
             "abbreviation": "MUT",
             "tzName": "Mauritius Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mauritius",
+         "es": "Mauricio",
+         "fr": "Île Maurice",
+         "ja": "モーリシャス",
+         "it": "Mauritius",
+         "br": "Maurício",
+         "pt": "Maurícia",
+         "nl": "Mauritius",
+         "hr": "Mauricijus",
+         "fa": "موریس"
+      }
    },
    {
       "name": "Mayotte",
@@ -3228,7 +4848,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mayotte",
+         "es": "Mayotte",
+         "fr": "Mayotte",
+         "ja": "マヨット",
+         "it": "Mayotte",
+         "br": "Mayotte",
+         "pt": "Mayotte",
+         "nl": "Mayotte",
+         "hr": "Mayotte",
+         "fa": "مایوت"
+      }
    },
    {
       "name": "Mexico",
@@ -3316,7 +4948,19 @@
             "abbreviation": "PST",
             "tzName": "Pacific Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mexiko",
+         "es": "México",
+         "fr": "Mexique",
+         "ja": "メキシコ",
+         "it": "Messico",
+         "br": "México",
+         "pt": "México",
+         "nl": "Mexico",
+         "hr": "Meksiko",
+         "fa": "مکزیک"
+      }
    },
    {
       "name": "Micronesia",
@@ -3348,7 +4992,19 @@
             "abbreviation": "PONT",
             "tzName": "Pohnpei Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mikronesien",
+         "es": "Micronesia",
+         "fr": "Micronésie",
+         "ja": "ミクロネシア連邦",
+         "it": "Micronesia",
+         "br": "Micronésia",
+         "pt": "Micronésia",
+         "nl": "Micronesië",
+         "hr": "Mikronezija",
+         "fa": "ایالات فدرال میکرونزی"
+      }
    },
    {
       "name": "Moldova",
@@ -3366,7 +5022,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Moldawie",
+         "es": "Moldavia",
+         "fr": "Moldavie",
+         "ja": "モルドバ共和国",
+         "it": "Moldavia",
+         "br": "Moldávia",
+         "pt": "Moldávia",
+         "nl": "Moldavië",
+         "hr": "Moldova",
+         "fa": "مولداوی"
+      }
    },
    {
       "name": "Monaco",
@@ -3384,7 +5052,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Monaco",
+         "es": "Mónaco",
+         "fr": "Monaco",
+         "ja": "モナコ",
+         "it": "Principato di Monaco",
+         "br": "Mônaco",
+         "pt": "Mónaco",
+         "nl": "Monaco",
+         "hr": "Monako",
+         "fa": "موناکو"
+      }
    },
    {
       "name": "Mongolia",
@@ -3416,7 +5096,19 @@
             "abbreviation": "ULAT",
             "tzName": "Ulaanbaatar Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mongolei",
+         "es": "Mongolia",
+         "fr": "Mongolie",
+         "ja": "モンゴル",
+         "it": "Mongolia",
+         "br": "Mongólia",
+         "pt": "Mongólia",
+         "nl": "Mongolië",
+         "hr": "Mongolija",
+         "fa": "مغولستان"
+      }
    },
    {
       "name": "Montenegro",
@@ -3452,7 +5144,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Montserrat",
+         "es": "Montserrat",
+         "fr": "Montserrat",
+         "ja": "モントセラト",
+         "it": "Montserrat",
+         "br": "Montserrat",
+         "pt": "Monserrate",
+         "nl": "Montserrat",
+         "hr": "Montserrat",
+         "fa": "مایوت"
+      }
    },
    {
       "name": "Morocco",
@@ -3470,7 +5174,19 @@
             "abbreviation": "WEST",
             "tzName": "Western European Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Marokko",
+         "es": "Marruecos",
+         "fr": "Maroc",
+         "ja": "モロッコ",
+         "it": "Marocco",
+         "br": "Marrocos",
+         "pt": "Marrocos",
+         "nl": "Marokko",
+         "hr": "Maroko",
+         "fa": "مراکش"
+      }
    },
    {
       "name": "Mozambique",
@@ -3488,7 +5204,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Mosambik",
+         "es": "Mozambique",
+         "fr": "Mozambique",
+         "ja": "モザンビーク",
+         "it": "Mozambico",
+         "br": "Moçambique",
+         "pt": "Moçambique",
+         "nl": "Mozambique",
+         "hr": "Mozambik",
+         "fa": "موزامبیک"
+      }
    },
    {
       "name": "Myanmar",
@@ -3506,7 +5234,19 @@
             "abbreviation": "MMT",
             "tzName": "Myanmar Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Myanmar",
+         "es": "Myanmar",
+         "fr": "Myanmar",
+         "ja": "ミャンマー",
+         "it": "Birmania",
+         "br": "Myanmar",
+         "pt": "Myanmar",
+         "nl": "Myanmar",
+         "hr": "Mijanmar",
+         "fa": "میانمار"
+      }
    },
    {
       "name": "Namibia",
@@ -3524,7 +5264,19 @@
             "abbreviation": "WAST",
             "tzName": "West Africa Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Namibia",
+         "es": "Namibia",
+         "fr": "Namibie",
+         "ja": "ナミビア",
+         "it": "Namibia",
+         "br": "Namíbia",
+         "pt": "Namíbia",
+         "nl": "Namibië",
+         "hr": "Namibija",
+         "fa": "نامیبیا"
+      }
    },
    {
       "name": "Nauru",
@@ -3542,7 +5294,19 @@
             "abbreviation": "NRT",
             "tzName": "Nauru Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Nauru",
+         "es": "Nauru",
+         "fr": "Nauru",
+         "ja": "ナウル",
+         "it": "Nauru",
+         "br": "Nauru",
+         "pt": "Nauru",
+         "nl": "Nauru",
+         "hr": "Nauru",
+         "fa": "نائورو"
+      }
    },
    {
       "name": "Nepal",
@@ -3560,7 +5324,19 @@
             "abbreviation": "NPT",
             "tzName": "Nepal Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Népal",
+         "es": "Nepal",
+         "fr": "Népal",
+         "ja": "ネパール",
+         "it": "Nepal",
+         "br": "Nepal",
+         "pt": "Nepal",
+         "nl": "Nepal",
+         "hr": "Nepal",
+         "fa": "نپال"
+      }
    },
    {
       "name": "Bonaire, Sint Eustatius and Saba",
@@ -3596,7 +5372,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Niederlande",
+         "es": "Países Bajos",
+         "fr": "Pays-Bas",
+         "ja": "オランダ",
+         "it": "Paesi Bassi",
+         "br": "Holanda",
+         "pt": "Países Baixos",
+         "nl": "Nederland",
+         "hr": "Nizozemska",
+         "fa": "پادشاهی هلند"
+      }
    },
    {
       "name": "New Caledonia",
@@ -3614,7 +5402,19 @@
             "abbreviation": "NCT",
             "tzName": "New Caledonia Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Neukaledonien",
+         "es": "Nueva Caledonia",
+         "fr": "Nouvelle-Calédonie",
+         "ja": "ニューカレドニア",
+         "it": "Nuova Caledonia",
+         "br": "Nova Caledônia",
+         "pt": "Nova Caledónia",
+         "nl": "Nieuw-Caledonië",
+         "hr": "Nova Kaledonija",
+         "fa": "کالدونیای جدید"
+      }
    },
    {
       "name": "New Zealand",
@@ -3639,7 +5439,19 @@
             "abbreviation": "CHAST",
             "tzName": "Chatham Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Neuseeland",
+         "es": "Nueva Zelanda",
+         "fr": "Nouvelle-Zélande",
+         "ja": "ニュージーランド",
+         "it": "Nuova Zelanda",
+         "br": "Nova Zelândia",
+         "pt": "Nova Zelândia",
+         "nl": "Nieuw-Zeeland",
+         "hr": "Novi Zeland",
+         "fa": "نیوزیلند"
+      }
    },
    {
       "name": "Nicaragua",
@@ -3657,7 +5469,19 @@
             "abbreviation": "CST",
             "tzName": "Central Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Nicaragua",
+         "es": "Nicaragua",
+         "fr": "Nicaragua",
+         "ja": "ニカラグア",
+         "it": "Nicaragua",
+         "br": "Nicarágua",
+         "pt": "Nicarágua",
+         "nl": "Nicaragua",
+         "hr": "Nikaragva",
+         "fa": "نیکاراگوئه"
+      }
    },
    {
       "name": "Niger",
@@ -3675,7 +5499,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Niger",
+         "es": "Níger",
+         "fr": "Niger",
+         "ja": "ニジェール",
+         "it": "Niger",
+         "br": "Níger",
+         "pt": "Níger",
+         "nl": "Niger",
+         "hr": "Niger",
+         "fa": "نیجر"
+      }
    },
    {
       "name": "Nigeria",
@@ -3693,7 +5529,19 @@
             "abbreviation": "WAT",
             "tzName": "West Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Nigeria",
+         "es": "Nigeria",
+         "fr": "Nigéria",
+         "ja": "ナイジェリア",
+         "it": "Nigeria",
+         "br": "Nigéria",
+         "pt": "Nigéria",
+         "nl": "Nigeria",
+         "hr": "Nigerija",
+         "fa": "نیجریه"
+      }
    },
    {
       "name": "Niue",
@@ -3711,7 +5559,19 @@
             "abbreviation": "NUT",
             "tzName": "Niue Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Niue",
+         "es": "Niue",
+         "fr": "Niue",
+         "ja": "ニウエ",
+         "it": "Niue",
+         "br": "Niue",
+         "pt": "Niue",
+         "nl": "Niue",
+         "hr": "Niue",
+         "fa": "نیووی"
+      }
    },
    {
       "name": "Norfolk Island",
@@ -3729,7 +5589,19 @@
             "abbreviation": "NFT",
             "tzName": "Norfolk Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Norfolkinsel",
+         "es": "Isla de Norfolk",
+         "fr": "Île de Norfolk",
+         "ja": "ノーフォーク島",
+         "it": "Isola Norfolk",
+         "br": "Ilha Norfolk",
+         "pt": "Ilha Norfolk",
+         "nl": "Norfolkeiland",
+         "hr": "Otok Norfolk",
+         "fa": "جزیره نورفک"
+      }
    },
    {
       "name": "Northern Mariana Islands",
@@ -3747,7 +5619,19 @@
             "abbreviation": "ChST",
             "tzName": "Chamorro Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Nördliche Marianen",
+         "es": "Islas Marianas del Norte",
+         "fr": "Îles Mariannes du Nord",
+         "ja": "北マリアナ諸島",
+         "it": "Isole Marianne Settentrionali",
+         "br": "Ilhas Marianas",
+         "pt": "Ilhas Marianas",
+         "nl": "Noordelijke Marianeneilanden",
+         "hr": "Sjevernomarijanski otoci",
+         "fa": "جزایر ماریانای شمالی"
+      }
    },
    {
       "name": "Norway",
@@ -3765,7 +5649,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Norwegen",
+         "es": "Noruega",
+         "fr": "Norvège",
+         "ja": "ノルウェー",
+         "it": "Norvegia",
+         "br": "Noruega",
+         "pt": "Noruega",
+         "nl": "Noorwegen",
+         "hr": "Norveška",
+         "fa": "نروژ"
+      }
    },
    {
       "name": "Oman",
@@ -3783,7 +5679,19 @@
             "abbreviation": "GST",
             "tzName": "Gulf Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Oman",
+         "es": "Omán",
+         "fr": "Oman",
+         "ja": "オマーン",
+         "it": "oman",
+         "br": "Omã",
+         "pt": "Omã",
+         "nl": "Oman",
+         "hr": "Oman",
+         "fa": "عمان"
+      }
    },
    {
       "name": "Pakistan",
@@ -3801,7 +5709,19 @@
             "abbreviation": "PKT",
             "tzName": "Pakistan Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Pakistan",
+         "es": "Pakistán",
+         "fr": "Pakistan",
+         "ja": "パキスタン",
+         "it": "Pakistan",
+         "br": "Paquistão",
+         "pt": "Paquistão",
+         "nl": "Pakistan",
+         "hr": "Pakistan",
+         "fa": "پاکستان"
+      }
    },
    {
       "name": "Palau",
@@ -3819,7 +5739,19 @@
             "abbreviation": "PWT",
             "tzName": "Palau Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Palau",
+         "es": "Palau",
+         "fr": "Palaos",
+         "ja": "パラオ",
+         "it": "Palau",
+         "br": "Palau",
+         "pt": "Palau",
+         "nl": "Palau",
+         "hr": "Palau",
+         "fa": "پالائو"
+      }
    },
    {
       "name": "Palestinian Territory Occupied",
@@ -3844,7 +5776,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Palästina",
+         "es": "Palestina",
+         "fr": "Palestine",
+         "ja": "パレスチナ",
+         "it": "Palestina",
+         "br": "Palestina",
+         "pt": "Palestina",
+         "nl": "Palestijnse gebieden",
+         "hr": "Palestina",
+         "fa": "فلسطین"
+      }
    },
    {
       "name": "Panama",
@@ -3862,7 +5806,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Panama",
+         "es": "Panamá",
+         "fr": "Panama",
+         "ja": "パナマ",
+         "it": "Panama",
+         "br": "Panamá",
+         "pt": "Panamá",
+         "nl": "Panama",
+         "hr": "Panama",
+         "fa": "پاناما"
+      }
    },
    {
       "name": "Papua new Guinea",
@@ -3887,7 +5843,19 @@
             "abbreviation": "PGT",
             "tzName": "Papua New Guinea Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Papua-Neuguinea",
+         "es": "Papúa Nueva Guinea",
+         "fr": "Papouasie-Nouvelle-Guinée",
+         "ja": "パプアニューギニア",
+         "it": "Papua Nuova Guinea",
+         "br": "Papua Nova Guiné",
+         "pt": "Papua Nova Guiné",
+         "nl": "Papoea-Nieuw-Guinea",
+         "hr": "Papua Nova Gvineja",
+         "fa": "پاپوآ گینه نو"
+      }
    },
    {
       "name": "Paraguay",
@@ -3905,7 +5873,19 @@
             "abbreviation": "PYST",
             "tzName": "Paraguay Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Paraguay",
+         "es": "Paraguay",
+         "fr": "Paraguay",
+         "ja": "パラグアイ",
+         "it": "Paraguay",
+         "br": "Paraguai",
+         "pt": "Paraguai",
+         "nl": "Paraguay",
+         "hr": "Paragvaj",
+         "fa": "پاراگوئه"
+      }
    },
    {
       "name": "Peru",
@@ -3923,7 +5903,19 @@
             "abbreviation": "PET",
             "tzName": "Peru Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Peru",
+         "es": "Perú",
+         "fr": "Pérou",
+         "ja": "ペルー",
+         "it": "Perù",
+         "br": "Peru",
+         "pt": "Peru",
+         "nl": "Peru",
+         "hr": "Peru",
+         "fa": "پرو"
+      }
    },
    {
       "name": "Philippines",
@@ -3941,7 +5933,19 @@
             "abbreviation": "PHT",
             "tzName": "Philippine Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Philippinen",
+         "es": "Filipinas",
+         "fr": "Philippines",
+         "ja": "フィリピン",
+         "it": "Filippine",
+         "br": "Filipinas",
+         "pt": "Filipinas",
+         "nl": "Filipijnen",
+         "hr": "Filipini",
+         "fa": "جزایر الندفیلیپین"
+      }
    },
    {
       "name": "Pitcairn Island",
@@ -3959,7 +5963,19 @@
             "abbreviation": "PST",
             "tzName": "Pacific Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Pitcairn",
+         "es": "Islas Pitcairn",
+         "fr": "Îles Pitcairn",
+         "ja": "ピトケアン",
+         "it": "Isole Pitcairn",
+         "br": "Ilhas Pitcairn",
+         "pt": "Ilhas Picárnia",
+         "nl": "Pitcairneilanden",
+         "hr": "Pitcairnovo otočje",
+         "fa": "پیتکرن"
+      }
    },
    {
       "name": "Poland",
@@ -3977,7 +5993,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Polen",
+         "es": "Polonia",
+         "fr": "Pologne",
+         "ja": "ポーランド",
+         "it": "Polonia",
+         "br": "Polônia",
+         "pt": "Polónia",
+         "nl": "Polen",
+         "hr": "Poljska",
+         "fa": "لهستان"
+      }
    },
    {
       "name": "Portugal",
@@ -4009,7 +6037,19 @@
             "abbreviation": "WET",
             "tzName": "Western European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Portugal",
+         "es": "Portugal",
+         "fr": "Portugal",
+         "ja": "ポルトガル",
+         "it": "Portogallo",
+         "br": "Portugal",
+         "pt": "Portugal",
+         "nl": "Portugal",
+         "hr": "Portugal",
+         "fa": "پرتغال"
+      }
    },
    {
       "name": "Puerto Rico",
@@ -4027,7 +6067,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Puerto Rico",
+         "es": "Puerto Rico",
+         "fr": "Porto Rico",
+         "ja": "プエルトリコ",
+         "it": "Porto Rico",
+         "br": "Porto Rico",
+         "pt": "Porto Rico",
+         "nl": "Puerto Rico",
+         "hr": "Portoriko",
+         "fa": "پورتو ریکو"
+      }
    },
    {
       "name": "Qatar",
@@ -4045,7 +6097,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Katar",
+         "es": "Catar",
+         "fr": "Qatar",
+         "ja": "カタール",
+         "it": "Qatar",
+         "br": "Catar",
+         "pt": "Catar",
+         "nl": "Qatar",
+         "hr": "Katar",
+         "fa": "قطر"
+      }
    },
    {
       "name": "Reunion",
@@ -4063,7 +6127,19 @@
             "abbreviation": "RET",
             "tzName": "Réunion Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Réunion",
+         "es": "Reunión",
+         "fr": "Réunion",
+         "ja": "レユニオン",
+         "it": "Riunione",
+         "br": "Reunião",
+         "pt": "Reunião",
+         "nl": "Réunion",
+         "hr": "Réunion",
+         "fa": "رئونیون"
+      }
    },
    {
       "name": "Romania",
@@ -4081,7 +6157,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Rumänien",
+         "es": "Rumania",
+         "fr": "Roumanie",
+         "ja": "ルーマニア",
+         "it": "Romania",
+         "br": "Romênia",
+         "pt": "Roménia",
+         "nl": "Roemenië",
+         "hr": "Rumunjska",
+         "fa": "رومانی"
+      }
    },
    {
       "name": "Russia",
@@ -4274,7 +6362,19 @@
             "abbreviation": "MSK",
             "tzName": "Moscow Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Russland",
+         "es": "Rusia",
+         "fr": "Russie",
+         "ja": "ロシア連邦",
+         "it": "Russia",
+         "br": "Rússia",
+         "pt": "Rússia",
+         "nl": "Rusland",
+         "hr": "Rusija",
+         "fa": "روسیه"
+      }
    },
    {
       "name": "Rwanda",
@@ -4292,7 +6392,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ruanda",
+         "es": "Ruanda",
+         "fr": "Rwanda",
+         "ja": "ルワンダ",
+         "it": "Ruanda",
+         "br": "Ruanda",
+         "pt": "Ruanda",
+         "nl": "Rwanda",
+         "hr": "Ruanda",
+         "fa": "رواندا"
+      }
    },
    {
       "name": "Saint Helena",
@@ -4310,7 +6422,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Sankt Helena",
+         "es": "Santa Helena",
+         "fr": "Sainte-Hélène",
+         "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+         "it": "Sant'Elena",
+         "br": "Santa Helena",
+         "pt": "Santa Helena",
+         "nl": "Sint-Helena",
+         "hr": "Sveta Helena",
+         "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
+      }
    },
    {
       "name": "Saint Kitts And Nevis",
@@ -4328,7 +6452,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "St. Kitts und Nevis",
+         "es": "San Cristóbal y Nieves",
+         "fr": "Saint-Christophe-et-Niévès",
+         "ja": "セントクリストファー・ネイビス",
+         "it": "Saint Kitts e Nevis",
+         "br": "São Cristóvão e Neves",
+         "pt": "São Cristóvão e Neves",
+         "nl": "Saint Kitts en Nevis",
+         "hr": "Sveti Kristof i Nevis",
+         "fa": "سنت کیتس و نویس"
+      }
    },
    {
       "name": "Saint Lucia",
@@ -4346,7 +6482,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Saint Lucia",
+         "es": "Santa Lucía",
+         "fr": "Saint-Lucie",
+         "ja": "セントルシア",
+         "it": "Santa Lucia",
+         "br": "Santa Lúcia",
+         "pt": "Santa Lúcia",
+         "nl": "Saint Lucia",
+         "hr": "Sveta Lucija",
+         "fa": "سنت لوسیا"
+      }
    },
    {
       "name": "Saint Pierre and Miquelon",
@@ -4364,7 +6512,19 @@
             "abbreviation": "PMDT",
             "tzName": "Pierre & Miquelon Daylight Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Saint-Pierre und Miquelon",
+         "es": "San Pedro y Miquelón",
+         "fr": "Saint-Pierre-et-Miquelon",
+         "ja": "サンピエール島・ミクロン島",
+         "it": "Saint-Pierre e Miquelon",
+         "br": "Saint-Pierre e Miquelon",
+         "pt": "São Pedro e Miquelon",
+         "nl": "Saint Pierre en Miquelon",
+         "hr": "Sveti Petar i Mikelon",
+         "fa": "سن پیر و میکلن"
+      }
    },
    {
       "name": "Saint Vincent And The Grenadines",
@@ -4382,7 +6542,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Saint Vincent und die Grenadinen",
+         "es": "San Vicente y Granadinas",
+         "fr": "Saint-Vincent-et-les-Grenadines",
+         "ja": "セントビンセントおよびグレナディーン諸島",
+         "it": "Saint Vincent e Grenadine",
+         "br": "São Vicente e Granadinas",
+         "pt": "São Vicente e Granadinas",
+         "nl": "Saint Vincent en de Grenadines",
+         "hr": "Sveti Vincent i Grenadini",
+         "fa": "سنت وینسنت و گرنادین‌ها"
+      }
    },
    {
       "name": "Saint-Barthelemy",
@@ -4436,7 +6608,19 @@
             "abbreviation": "WST",
             "tzName": "West Samoa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Samoa",
+         "es": "Samoa",
+         "fr": "Samoa",
+         "ja": "サモア",
+         "it": "Samoa",
+         "br": "Samoa",
+         "pt": "Samoa",
+         "nl": "Samoa",
+         "hr": "Samoa",
+         "fa": "ساموآ"
+      }
    },
    {
       "name": "San Marino",
@@ -4454,7 +6638,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "San Marino",
+         "es": "San Marino",
+         "fr": "Saint-Marin",
+         "ja": "サンマリノ",
+         "it": "San Marino",
+         "br": "San Marino",
+         "pt": "São Marinho",
+         "nl": "San Marino",
+         "hr": "San Marino",
+         "fa": "سان مارینو"
+      }
    },
    {
       "name": "Sao Tome and Principe",
@@ -4472,7 +6668,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "São Tomé und Príncipe",
+         "es": "Santo Tomé y Príncipe",
+         "fr": "Sao Tomé-et-Principe",
+         "ja": "サントメ・プリンシペ",
+         "it": "São Tomé e Príncipe",
+         "br": "São Tomé e Príncipe",
+         "pt": "São Tomé e Príncipe",
+         "nl": "Sao Tomé en Principe",
+         "hr": "Sveti Toma i Princip",
+         "fa": "کواترو دو فرویرو"
+      }
    },
    {
       "name": "Saudi Arabia",
@@ -4490,7 +6698,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Saudi-Arabien",
+         "es": "Arabia Saudí",
+         "fr": "Arabie Saoudite",
+         "ja": "サウジアラビア",
+         "it": "Arabia Saudita",
+         "br": "Arábia Saudita",
+         "pt": "Arábia Saudita",
+         "nl": "Saoedi-Arabië",
+         "hr": "Saudijska Arabija",
+         "fa": "عربستان سعودی"
+      }
    },
    {
       "name": "Senegal",
@@ -4508,7 +6728,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Senegal",
+         "es": "Senegal",
+         "fr": "Sénégal",
+         "ja": "セネガル",
+         "it": "Senegal",
+         "br": "Senegal",
+         "pt": "Senegal",
+         "nl": "Senegal",
+         "hr": "Senegal",
+         "fa": "سنگال"
+      }
    },
    {
       "name": "Serbia",
@@ -4526,7 +6758,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Serbien",
+         "es": "Serbia",
+         "fr": "Serbie",
+         "ja": "セルビア",
+         "it": "Serbia",
+         "br": "Sérvia",
+         "pt": "Sérvia",
+         "nl": "Servië",
+         "hr": "Srbija",
+         "fa": "صربستان"
+      }
    },
    {
       "name": "Seychelles",
@@ -4544,7 +6788,19 @@
             "abbreviation": "SCT",
             "tzName": "Seychelles Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Seychellen",
+         "es": "Seychelles",
+         "fr": "Seychelles",
+         "ja": "セーシェル",
+         "it": "Seychelles",
+         "br": "Seicheles",
+         "pt": "Seicheles",
+         "nl": "Seychellen",
+         "hr": "Sejšeli",
+         "fa": "سیشل"
+      }
    },
    {
       "name": "Sierra Leone",
@@ -4562,7 +6818,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Sierra Leone",
+         "es": "Sierra Leone",
+         "fr": "Sierra Leone",
+         "ja": "シエラレオネ",
+         "it": "Sierra Leone",
+         "br": "Serra Leoa",
+         "pt": "Serra Leoa",
+         "nl": "Sierra Leone",
+         "hr": "Sijera Leone",
+         "fa": "سیرالئون"
+      }
    },
    {
       "name": "Singapore",
@@ -4580,7 +6848,19 @@
             "abbreviation": "SGT",
             "tzName": "Singapore Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Singapur",
+         "es": "Singapur",
+         "fr": "Singapour",
+         "ja": "シンガポール",
+         "it": "Singapore",
+         "br": "Singapura",
+         "pt": "Singapura",
+         "nl": "Singapore",
+         "hr": "Singapur",
+         "fa": "سنگاپور"
+      }
    },
    {
       "name": "Slovakia",
@@ -4598,7 +6878,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Slowakei",
+         "es": "República Eslovaca",
+         "fr": "Slovaquie",
+         "ja": "スロバキア",
+         "it": "Slovacchia",
+         "br": "Eslováquia",
+         "pt": "Eslováquia",
+         "nl": "Slowakije",
+         "hr": "Slovačka",
+         "fa": "اسلواکی"
+      }
    },
    {
       "name": "Slovenia",
@@ -4616,7 +6908,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Slowenien",
+         "es": "Eslovenia",
+         "fr": "Slovénie",
+         "ja": "スロベニア",
+         "it": "Slovenia",
+         "br": "Eslovênia",
+         "pt": "Eslovénia",
+         "nl": "Slovenië",
+         "hr": "Slovenija",
+         "fa": "اسلوونی"
+      }
    },
    {
       "name": "Solomon Islands",
@@ -4634,7 +6938,19 @@
             "abbreviation": "SBT",
             "tzName": "Solomon Islands Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Salomonen",
+         "es": "Islas Salomón",
+         "fr": "Îles Salomon",
+         "ja": "ソロモン諸島",
+         "it": "Isole Salomone",
+         "br": "Ilhas Salomão",
+         "pt": "Ilhas Salomão",
+         "nl": "Salomonseilanden",
+         "hr": "Solomonski Otoci",
+         "fa": "جزایر سلیمان"
+      }
    },
    {
       "name": "Somalia",
@@ -4652,7 +6968,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Somalia",
+         "es": "Somalia",
+         "fr": "Somalie",
+         "ja": "ソマリア",
+         "it": "Somalia",
+         "br": "Somália",
+         "pt": "Somália",
+         "nl": "Somalië",
+         "hr": "Somalija",
+         "fa": "سومالی"
+      }
    },
    {
       "name": "South Africa",
@@ -4670,7 +6998,19 @@
             "abbreviation": "SAST",
             "tzName": "South African Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Republik Südafrika",
+         "es": "República de Sudáfrica",
+         "fr": "Afrique du Sud",
+         "ja": "南アフリカ",
+         "it": "Sud Africa",
+         "br": "República Sul-Africana",
+         "pt": "República Sul-Africana",
+         "nl": "Zuid-Afrika",
+         "hr": "Južnoafrička Republika",
+         "fa": "آفریقای جنوبی"
+      }
    },
    {
       "name": "South Georgia",
@@ -4688,7 +7028,19 @@
             "abbreviation": "GST",
             "tzName": "South Georgia and the South Sandwich Islands Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Südgeorgien und die Südlichen Sandwichinseln",
+         "es": "Islas Georgias del Sur y Sandwich del Sur",
+         "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+         "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+         "it": "Georgia del Sud e Isole Sandwich Meridionali",
+         "br": "Ilhas Geórgias do Sul e Sandwich do Sul",
+         "pt": "Ilhas Geórgia do Sul e Sanduíche do Sul",
+         "nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+         "hr": "Južna Georgija i otočje Južni Sandwich",
+         "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
+      }
    },
    {
       "name": "South Sudan",
@@ -4706,7 +7058,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Südsudan",
+         "es": "Sudán del Sur",
+         "fr": "Soudan du Sud",
+         "ja": "南スーダン",
+         "it": "Sudan del sud",
+         "br": "Sudão do Sul",
+         "pt": "Sudão do Sul",
+         "nl": "Zuid-Soedan",
+         "hr": "Južni Sudan",
+         "fa": "سودان جنوبی"
+      }
    },
    {
       "name": "Spain",
@@ -4738,7 +7102,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Spanien",
+         "es": "España",
+         "fr": "Espagne",
+         "ja": "スペイン",
+         "it": "Spagna",
+         "br": "Espanha",
+         "pt": "Espanha",
+         "nl": "Spanje",
+         "hr": "Španjolska",
+         "fa": "اسپانیا"
+      }
    },
    {
       "name": "Sri Lanka",
@@ -4756,7 +7132,19 @@
             "abbreviation": "IST",
             "tzName": "Indian Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Sri Lanka",
+         "es": "Sri Lanka",
+         "fr": "Sri Lanka",
+         "ja": "スリランカ",
+         "it": "Sri Lanka",
+         "br": "Sri Lanka",
+         "pt": "Sri Lanka",
+         "nl": "Sri Lanka",
+         "hr": "Šri Lanka",
+         "fa": "سری‌لانکا"
+      }
    },
    {
       "name": "Sudan",
@@ -4774,7 +7162,19 @@
             "abbreviation": "EAT",
             "tzName": "Eastern African Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Sudan",
+         "es": "Sudán",
+         "fr": "Soudan",
+         "ja": "スーダン",
+         "it": "Sudan",
+         "br": "Sudão",
+         "pt": "Sudão",
+         "nl": "Soedan",
+         "hr": "Sudan",
+         "fa": "سودان"
+      }
    },
    {
       "name": "Suriname",
@@ -4792,7 +7192,19 @@
             "abbreviation": "SRT",
             "tzName": "Suriname Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Suriname",
+         "es": "Surinam",
+         "fr": "Surinam",
+         "ja": "スリナム",
+         "it": "Suriname",
+         "br": "Suriname",
+         "pt": "Suriname",
+         "nl": "Suriname",
+         "hr": "Surinam",
+         "fa": "سورینام"
+      }
    },
    {
       "name": "Svalbard And Jan Mayen Islands",
@@ -4810,7 +7222,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Svalbard und Jan Mayen",
+         "es": "Islas Svalbard y Jan Mayen",
+         "fr": "Svalbard et Jan Mayen",
+         "ja": "スヴァールバル諸島およびヤンマイエン島",
+         "it": "Svalbard e Jan Mayen",
+         "br": "Svalbard",
+         "pt": "Svalbard",
+         "nl": "Svalbard en Jan Mayen",
+         "hr": "Svalbard i Jan Mayen",
+         "fa": "سوالبارد و یان ماین"
+      }
    },
    {
       "name": "Swaziland",
@@ -4828,7 +7252,19 @@
             "abbreviation": "SAST",
             "tzName": "South African Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Swasiland",
+         "es": "Suazilandia",
+         "fr": "Swaziland",
+         "ja": "スワジランド",
+         "it": "Swaziland",
+         "br": "Suazilândia",
+         "pt": "Suazilândia",
+         "nl": "Swaziland",
+         "hr": "Svazi",
+         "fa": "سوازیلند"
+      }
    },
    {
       "name": "Sweden",
@@ -4846,7 +7282,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Schweden",
+         "es": "Suecia",
+         "fr": "Suède",
+         "ja": "スウェーデン",
+         "it": "Svezia",
+         "br": "Suécia",
+         "pt": "Suécia",
+         "nl": "Zweden",
+         "hr": "Švedska",
+         "fa": "سوئد"
+      }
    },
    {
       "name": "Switzerland",
@@ -4864,7 +7312,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Schweiz",
+         "es": "Suiza",
+         "fr": "Suisse",
+         "ja": "スイス",
+         "it": "Svizzera",
+         "br": "Suíça",
+         "pt": "Suíça",
+         "nl": "Zwitserland",
+         "hr": "Švicarska",
+         "fa": "سوئیس"
+      }
    },
    {
       "name": "Syria",
@@ -4882,7 +7342,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Syrien",
+         "es": "Siria",
+         "fr": "Syrie",
+         "ja": "シリア・アラブ共和国",
+         "it": "Siria",
+         "br": "Síria",
+         "pt": "Síria",
+         "nl": "Syrië",
+         "hr": "Sirija",
+         "fa": "سوریه"
+      }
    },
    {
       "name": "Taiwan",
@@ -4900,7 +7372,19 @@
             "abbreviation": "CST",
             "tzName": "China Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Taiwan",
+         "es": "Taiwán",
+         "fr": "Taïwan",
+         "ja": "台湾（中華民国）",
+         "it": "Taiwan",
+         "br": "Taiwan",
+         "pt": "Taiwan",
+         "nl": "Taiwan",
+         "hr": "Tajvan",
+         "fa": "تایوان"
+      }
    },
    {
       "name": "Tajikistan",
@@ -4918,7 +7402,19 @@
             "abbreviation": "TJT",
             "tzName": "Tajikistan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tadschikistan",
+         "es": "Tayikistán",
+         "fr": "Tadjikistan",
+         "ja": "タジキスタン",
+         "it": "Tagikistan",
+         "br": "Tajiquistão",
+         "pt": "Tajiquistão",
+         "nl": "Tadzjikistan",
+         "hr": "Tađikistan",
+         "fa": "تاجیکستان"
+      }
    },
    {
       "name": "Tanzania",
@@ -4936,7 +7432,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tansania",
+         "es": "Tanzania",
+         "fr": "Tanzanie",
+         "ja": "タンザニア",
+         "it": "Tanzania",
+         "br": "Tanzânia",
+         "pt": "Tanzânia",
+         "nl": "Tanzania",
+         "hr": "Tanzanija",
+         "fa": "تانزانیا"
+      }
    },
    {
       "name": "Thailand",
@@ -4954,7 +7462,19 @@
             "abbreviation": "ICT",
             "tzName": "Indochina Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Thailand",
+         "es": "Tailandia",
+         "fr": "Thaïlande",
+         "ja": "タイ",
+         "it": "Tailandia",
+         "br": "Tailândia",
+         "pt": "Tailândia",
+         "nl": "Thailand",
+         "hr": "Tajland",
+         "fa": "تایلند"
+      }
    },
    {
       "name": "Togo",
@@ -4972,7 +7492,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Togo",
+         "es": "Togo",
+         "fr": "Togo",
+         "ja": "トーゴ",
+         "it": "Togo",
+         "br": "Togo",
+         "pt": "Togo",
+         "nl": "Togo",
+         "hr": "Togo",
+         "fa": "توگو"
+      }
    },
    {
       "name": "Tokelau",
@@ -4990,7 +7522,19 @@
             "abbreviation": "TKT",
             "tzName": "Tokelau Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tokelau",
+         "es": "Islas Tokelau",
+         "fr": "Tokelau",
+         "ja": "トケラウ",
+         "it": "Isole Tokelau",
+         "br": "Tokelau",
+         "pt": "Toquelau",
+         "nl": "Tokelau",
+         "hr": "Tokelau",
+         "fa": "توکلائو"
+      }
    },
    {
       "name": "Tonga",
@@ -5008,7 +7552,19 @@
             "abbreviation": "TOT",
             "tzName": "Tonga Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tonga",
+         "es": "Tonga",
+         "fr": "Tonga",
+         "ja": "トンガ",
+         "it": "Tonga",
+         "br": "Tonga",
+         "pt": "Tonga",
+         "nl": "Tonga",
+         "hr": "Tonga",
+         "fa": "تونگا"
+      }
    },
    {
       "name": "Trinidad And Tobago",
@@ -5026,7 +7582,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Trinidad und Tobago",
+         "es": "Trinidad y Tobago",
+         "fr": "Trinité et Tobago",
+         "ja": "トリニダード・トバゴ",
+         "it": "Trinidad e Tobago",
+         "br": "Trinidad e Tobago",
+         "pt": "Trindade e Tobago",
+         "nl": "Trinidad en Tobago",
+         "hr": "Trinidad i Tobago",
+         "fa": "ترینیداد و توباگو"
+      }
    },
    {
       "name": "Tunisia",
@@ -5044,7 +7612,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tunesien",
+         "es": "Túnez",
+         "fr": "Tunisie",
+         "ja": "チュニジア",
+         "it": "Tunisia",
+         "br": "Tunísia",
+         "pt": "Tunísia",
+         "nl": "Tunesië",
+         "hr": "Tunis",
+         "fa": "تونس"
+      }
    },
    {
       "name": "Turkey",
@@ -5062,7 +7642,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Türkei",
+         "es": "Turquía",
+         "fr": "Turquie",
+         "ja": "トルコ",
+         "it": "Turchia",
+         "br": "Turquia",
+         "pt": "Turquia",
+         "nl": "Turkije",
+         "hr": "Turska",
+         "fa": "ترکیه"
+      }
    },
    {
       "name": "Turkmenistan",
@@ -5080,7 +7672,19 @@
             "abbreviation": "TMT",
             "tzName": "Turkmenistan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Turkmenistan",
+         "es": "Turkmenistán",
+         "fr": "Turkménistan",
+         "ja": "トルクメニスタン",
+         "it": "Turkmenistan",
+         "br": "Turcomenistão",
+         "pt": "Turquemenistão",
+         "nl": "Turkmenistan",
+         "hr": "Turkmenistan",
+         "fa": "ترکمنستان"
+      }
    },
    {
       "name": "Turks And Caicos Islands",
@@ -5098,7 +7702,19 @@
             "abbreviation": "EST",
             "tzName": "Eastern Standard Time (North America"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Turks- und Caicosinseln",
+         "es": "Islas Turks y Caicos",
+         "fr": "Îles Turques-et-Caïques",
+         "ja": "タークス・カイコス諸島",
+         "it": "Isole Turks e Caicos",
+         "br": "Ilhas Turcas e Caicos",
+         "pt": "Ilhas Turcas e Caicos",
+         "nl": "Turks- en Caicoseilanden",
+         "hr": "Otoci Turks i Caicos",
+         "fa": "جزایر تورکس و کایکوس"
+      }
    },
    {
       "name": "Tuvalu",
@@ -5116,7 +7732,19 @@
             "abbreviation": "TVT",
             "tzName": "Tuvalu Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Tuvalu",
+         "es": "Tuvalu",
+         "fr": "Tuvalu",
+         "ja": "ツバル",
+         "it": "Tuvalu",
+         "br": "Tuvalu",
+         "pt": "Tuvalu",
+         "nl": "Tuvalu",
+         "hr": "Tuvalu",
+         "fa": "تووالو"
+      }
    },
    {
       "name": "Uganda",
@@ -5134,7 +7762,19 @@
             "abbreviation": "EAT",
             "tzName": "East Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Uganda",
+         "es": "Uganda",
+         "fr": "Uganda",
+         "ja": "ウガンダ",
+         "it": "Uganda",
+         "br": "Uganda",
+         "pt": "Uganda",
+         "nl": "Oeganda",
+         "hr": "Uganda",
+         "fa": "اوگاندا"
+      }
    },
    {
       "name": "Ukraine",
@@ -5173,7 +7813,19 @@
             "abbreviation": "EET",
             "tzName": "Eastern European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Ukraine",
+         "es": "Ucrania",
+         "fr": "Ukraine",
+         "ja": "ウクライナ",
+         "it": "Ucraina",
+         "br": "Ucrânia",
+         "pt": "Ucrânia",
+         "nl": "Oekraïne",
+         "hr": "Ukrajina",
+         "fa": "وکراین"
+      }
    },
    {
       "name": "United Arab Emirates",
@@ -5191,7 +7843,19 @@
             "abbreviation": "GST",
             "tzName": "Gulf Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Vereinigte Arabische Emirate",
+         "es": "Emiratos Árabes Unidos",
+         "fr": "Émirats arabes unis",
+         "ja": "アラブ首長国連邦",
+         "it": "Emirati Arabi Uniti",
+         "br": "Emirados árabes Unidos",
+         "pt": "Emirados árabes Unidos",
+         "nl": "Verenigde Arabische Emiraten",
+         "hr": "Ujedinjeni Arapski Emirati",
+         "fa": "امارات متحده عربی"
+      }
    },
    {
       "name": "United Kingdom",
@@ -5209,7 +7873,19 @@
             "abbreviation": "GMT",
             "tzName": "Greenwich Mean Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Vereinigtes Königreich",
+         "es": "Reino Unido",
+         "fr": "Royaume-Uni",
+         "ja": "イギリス",
+         "it": "Regno Unito",
+         "br": "Reino Unido",
+         "pt": "Reino Unido",
+         "nl": "Verenigd Koninkrijk",
+         "hr": "Ujedinjeno Kraljevstvo",
+         "fa": "بریتانیای کبیر و ایرلند شمالی"
+      }
    },
    {
       "name": "United States",
@@ -5423,7 +8099,19 @@
             "abbreviation": "HST",
             "tzName": "Hawaii–Aleutian Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Vereinigte Staaten von Amerika",
+         "es": "Estados Unidos",
+         "fr": "États-Unis",
+         "ja": "アメリカ合衆国",
+         "it": "Stati Uniti D'America",
+         "br": "Estados Unidos",
+         "pt": "Estados Unidos",
+         "nl": "Verenigde Staten",
+         "hr": "Sjedinjene Američke Države",
+         "fa": "ایالات متحده آمریکا"
+      }
    },
    {
       "name": "United States Minor Outlying Islands",
@@ -5448,7 +8136,19 @@
             "abbreviation": "WAKT",
             "tzName": "Wake Island Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+         "es": "Islas Ultramarinas Menores de Estados Unidos",
+         "fr": "Îles mineures éloignées des États-Unis",
+         "ja": "合衆国領有小離島",
+         "it": "Isole minori esterne degli Stati Uniti d'America",
+         "br": "Ilhas Menores Distantes dos Estados Unidos",
+         "pt": "Ilhas Menores Distantes dos Estados Unidos",
+         "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+         "hr": "Mali udaljeni otoci SAD-a",
+         "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
+      }
    },
    {
       "name": "Uruguay",
@@ -5466,7 +8166,19 @@
             "abbreviation": "UYT",
             "tzName": "Uruguay Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Uruguay",
+         "es": "Uruguay",
+         "fr": "Uruguay",
+         "ja": "ウルグアイ",
+         "it": "Uruguay",
+         "br": "Uruguai",
+         "pt": "Uruguai",
+         "nl": "Uruguay",
+         "hr": "Urugvaj",
+         "fa": "اروگوئه"
+      }
    },
    {
       "name": "Uzbekistan",
@@ -5491,7 +8203,19 @@
             "abbreviation": "UZT",
             "tzName": "Uzbekistan Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Usbekistan",
+         "es": "Uzbekistán",
+         "fr": "Ouzbékistan",
+         "ja": "ウズベキスタン",
+         "it": "Uzbekistan",
+         "br": "Uzbequistão",
+         "pt": "Usbequistão",
+         "nl": "Oezbekistan",
+         "hr": "Uzbekistan",
+         "fa": "ازبکستان"
+      }
    },
    {
       "name": "Vanuatu",
@@ -5509,7 +8233,19 @@
             "abbreviation": "VUT",
             "tzName": "Vanuatu Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Vanuatu",
+         "es": "Vanuatu",
+         "fr": "Vanuatu",
+         "ja": "バヌアツ",
+         "it": "Vanuatu",
+         "br": "Vanuatu",
+         "pt": "Vanuatu",
+         "nl": "Vanuatu",
+         "hr": "Vanuatu",
+         "fa": "وانواتو"
+      }
    },
    {
       "name": "Vatican City State (Holy See)",
@@ -5527,7 +8263,19 @@
             "abbreviation": "CET",
             "tzName": "Central European Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Heiliger Stuhl",
+         "es": "Santa Sede",
+         "fr": "voir Saint",
+         "ja": "聖座",
+         "it": "Santa Sede",
+         "br": "Vaticano",
+         "pt": "Vaticano",
+         "nl": "Heilige Stoel",
+         "hr": "Sveta Stolica",
+         "fa": "سریر مقدس"
+      }
    },
    {
       "name": "Venezuela",
@@ -5545,7 +8293,19 @@
             "abbreviation": "VET",
             "tzName": "Venezuelan Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Venezuela",
+         "es": "Venezuela",
+         "fr": "Venezuela",
+         "ja": "ベネズエラ・ボリバル共和国",
+         "it": "Venezuela",
+         "br": "Venezuela",
+         "pt": "Venezuela",
+         "nl": "Venezuela",
+         "hr": "Venezuela",
+         "fa": "ونزوئلا"
+      }
    },
    {
       "name": "Vietnam",
@@ -5563,7 +8323,19 @@
             "abbreviation": "ICT",
             "tzName": "Indochina Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Vietnam",
+         "es": "Vietnam",
+         "fr": "Viêt Nam",
+         "ja": "ベトナム",
+         "it": "Vietnam",
+         "br": "Vietnã",
+         "pt": "Vietname",
+         "nl": "Vietnam",
+         "hr": "Vijetnam",
+         "fa": "ویتنام"
+      }
    },
    {
       "name": "Virgin Islands (British)",
@@ -5581,7 +8353,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Britische Jungferninseln",
+         "es": "Islas Vírgenes del Reino Unido",
+         "fr": "Îles Vierges britanniques",
+         "ja": "イギリス領ヴァージン諸島",
+         "it": "Isole Vergini Britanniche",
+         "br": "Ilhas Virgens Britânicas",
+         "pt": "Ilhas Virgens Britânicas",
+         "nl": "Britse Maagdeneilanden",
+         "hr": "Britanski Djevičanski Otoci",
+         "fa": "جزایر ویرجین بریتانیا"
+      }
    },
    {
       "name": "Virgin Islands (US)",
@@ -5599,7 +8383,19 @@
             "abbreviation": "AST",
             "tzName": "Atlantic Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Amerikanische Jungferninseln",
+         "es": "Islas Vírgenes de los Estados Unidos",
+         "fr": "Îles Vierges des États-Unis",
+         "ja": "アメリカ領ヴァージン諸島",
+         "it": "Isole Vergini americane",
+         "br": "Ilhas Virgens Americanas",
+         "pt": "Ilhas Virgens Americanas",
+         "nl": "Verenigde Staten Maagdeneilanden",
+         "hr": null,
+         "fa": "جزایر ویرجین آمریکا"
+      }
    },
    {
       "name": "Wallis And Futuna Islands",
@@ -5617,7 +8413,19 @@
             "abbreviation": "WFT",
             "tzName": "Wallis & Futuna Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Wallis und Futuna",
+         "es": "Wallis y Futuna",
+         "fr": "Wallis-et-Futuna",
+         "ja": "ウォリス・フツナ",
+         "it": "Wallis e Futuna",
+         "br": "Wallis e Futuna",
+         "pt": "Wallis e Futuna",
+         "nl": "Wallis en Futuna",
+         "hr": "Wallis i Fortuna",
+         "fa": "والیس و فوتونا"
+      }
    },
    {
       "name": "Western Sahara",
@@ -5635,7 +8443,19 @@
             "abbreviation": "WEST",
             "tzName": "Western European Summer Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Westsahara",
+         "es": "Sahara Occidental",
+         "fr": "Sahara Occidental",
+         "ja": "西サハラ",
+         "it": "Sahara Occidentale",
+         "br": "Saara Ocidental",
+         "pt": "Saara Ocidental",
+         "nl": "Westelijke Sahara",
+         "hr": "Zapadna Sahara",
+         "fa": "جمهوری دموکراتیک عربی صحرا"
+      }
    },
    {
       "name": "Yemen",
@@ -5653,7 +8473,19 @@
             "abbreviation": "AST",
             "tzName": "Arabia Standard Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Jemen",
+         "es": "Yemen",
+         "fr": "Yémen",
+         "ja": "イエメン",
+         "it": "Yemen",
+         "br": "Iêmen",
+         "pt": "Iémen",
+         "nl": "Jemen",
+         "hr": "Jemen",
+         "fa": "یمن"
+      }
    },
    {
       "name": "Zambia",
@@ -5671,7 +8503,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Sambia",
+         "es": "Zambia",
+         "fr": "Zambie",
+         "ja": "ザンビア",
+         "it": "Zambia",
+         "br": "Zâmbia",
+         "pt": "Zâmbia",
+         "nl": "Zambia",
+         "hr": "Zambija",
+         "fa": "زامبیا"
+      }
    },
    {
       "name": "Zimbabwe",
@@ -5689,7 +8533,19 @@
             "abbreviation": "CAT",
             "tzName": "Central Africa Time"
          }
-      ]
+      ],
+      "translations": {
+         "de": "Simbabwe",
+         "es": "Zimbabue",
+         "fr": "Zimbabwe",
+         "ja": "ジンバブエ",
+         "it": "Zimbabwe",
+         "br": "Zimbabwe",
+         "pt": "Zimbabué",
+         "nl": "Zimbabwe",
+         "hr": "Zimbabve",
+         "fa": "زیمباوه"
+      }
    },
    {
       "name": "Kosovo",

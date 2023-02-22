@@ -129,7 +129,19 @@ type: **json | ICountry**
 			"abbreviation": "IST",
 			"tzName": "Indian Standard Time"
 		}
-	]
+	],
+	"translations": {
+         "de": "Indien",
+         "es": "India",
+         "fr": "Inde",
+         "ja": "インド",
+         "it": "India",
+         "br": "Índia",
+         "pt": "Índia",
+         "nl": "India",
+         "hr": "Indija",
+         "fa": "هند"
+      }
 }
 ```
 
@@ -233,7 +245,19 @@ type: **array of json | ICountry**
 				"abbreviation": "IST",
 				"tzName": "Indian Standard Time"
 			}
-		]
+		],
+		"translations": {
+         "de": "Indien",
+         "es": "India",
+         "fr": "Inde",
+         "ja": "インド",
+         "it": "India",
+         "br": "Índia",
+         "pt": "Índia",
+         "nl": "India",
+         "hr": "Indija",
+         "fa": "هند"
+      }
 	}
 ]
 ```
