@@ -14,6 +14,18 @@ export interface ICountry {
 	latitude: string;
 	longitude: string;
 	timezones?: Timezones[];
+	translations?: {
+		de: string;
+		es: string;
+		fr: string;
+		ja: string;
+		it: string;
+		br: string;
+		pt: string;
+		nl: string;
+		hr: string;
+		fa: string;
+	}
 	getAllCountries?(): ICountry[];
 	getCountryByCode?(): ICountry;
 }
